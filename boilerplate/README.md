@@ -10,6 +10,7 @@ Most websites and applications have a default HTML file named **index.html**.
 
 **Boilerplate** is the markup that would exist in every web page, i.e., the starting point.
 
+Use the ! emmet abbreviation in index.html to create HTML boilerplate.
 
 Type `!` then `[tab]` - voila!
 

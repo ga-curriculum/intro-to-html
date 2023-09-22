@@ -2,4 +2,26 @@
 
 ![Hero image](./assets/hero.png)
 
-tktk optional student-facing level up content should be added here. Not all modules will have Level Up content - if it doesn't, the `level-up` directory should be deleted, and the Level Up section in the main `README.md` file should be removed.
+## Why Do We Name HTML Files "index"?
+
+The practice of naming the main HTML file as "index.html" is rooted in web server standards. When a user navigates to a directory on a website, the web server searches for a default file to display. This file is most commonly "index.html," although variations like "index.php" or "index.htm" also exist.
+
+### Historical Context
+
+In the early stages of the web, directories would often list files openly. To create a more user-friendly experience, web administrators began using an "index" file as a welcoming or landing page for each directory.
+
+### Server Behavior
+
+When a URL directs to a directory rather than a specific file, the web server will automatically look for a default file in that directory to display. "index.html" is widely recognized as that default file, although server configurations can change this.
+
+### Advantages
+
+1. **User Experience**: Simplifies user access by allowing them to just type the domain or directory URL, without needing to remember a specific file name.
+2. **Simplicity**: Makes server configuration easier, as most server software defaults to using "index.html" as the initial access point.
+3. **SEO Benefits**: This standard practice is well-recognized by search engines, offering potential SEO advantages.
+
+### Alternative Names
+
+While "index.html" is the industry standard, some web servers allow for different default file names, configurable via server settings.
+
+
