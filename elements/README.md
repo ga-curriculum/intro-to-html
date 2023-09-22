@@ -18,10 +18,10 @@ Note the slash in the closing tag.
 Some tags such as `<img>` and `<br>` are called *empty tags* because they **never have content** and thus do not have a closing tag. Before HTML5, empty tags typically had a slash before the last angle bracket like this `<br/>`; however, since the introduction of HTML5, it is preferable to omit the slash.
 
 ```html
-  <img 
-    src="https://super-bucket-extreme.s3.us-east-2.amazonaws.com/liam.jpg" 
-    alt="Liam, a schnauzer, resting on a bed among his multi-color ducks"
-  >
+<img 
+  src="https://super-bucket-extreme.s3.us-east-2.amazonaws.com/liam.jpg" 
+  alt="Liam, a schnauzer, resting on a bed among his multi-color ducks"
+>
 ```
 
 Lowercase is used for both tags and attribute names.
@@ -51,15 +51,11 @@ Most elements are defined as either *block* or *inline* elements.
     
     Examples: `<span>`, `<td>`, `<img>`
     
-    <aside>
-    🧠 Inline elements generally cannot have their height and width set in CSS. However, using CSS like this, display: inline-block;, allows inline elements to be sized.
+
+> 🧠 Inline elements generally cannot have their height and width set in CSS. However, using CSS like this, display: inline-block;, allows inline elements to be sized.
     
-    </aside>
-    
-    <aside>
-    ⚠️ Some inline elements (for example, the `<img>` tag) are [replaced inline elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element) and can be given width and height without changing them into inline-block elements.
-    
-    </aside>
+
+> ⚠️ Some inline elements (for example, the `<img>` tag) are [replaced inline elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element) and can be given width and height without changing them into inline-block elements.
 
 ### Attributes
 
