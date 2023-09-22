@@ -20,7 +20,7 @@ Content Needed
 
 ### The 3 fundamental client-side technologies of a web app:
 
-<img src="https://i.imgur.com/V6RS1AE.png" alt="html in context" style="height:300px;">
+<img src="./assets/html-css-js.png" alt="html in context" style="height:500px;">
 
 
 ##### HTML (Hypertext Markup Language)

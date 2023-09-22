@@ -9,7 +9,8 @@
 
 Semantic HTML helps express the **meaning** or purpose of the content in a webpage:
 
-<img src="https://i.imgur.com/2jxmD28.png">
+
+<img src="./assets/semantic.png" alt="semantic html" style="height:400px;">
 
 
 Semantic HTML makes the developer’s intentions clearer about what they are trying to accomplish and allows for more accurate web searches via better SEO (search engine optimization).
@@ -29,7 +30,7 @@ Take 5 minutes to research these semantic HTML tags. We’ll get back together a
 7. `<main>`
 8. `<nav>`
 
-# Essential Questions ❓
+# ❓ Review
 
 1. Explain what semantic HTML is and the benefits it provides.
 2. What are attributes, and what are they used for?
