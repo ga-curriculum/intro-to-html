@@ -1,4 +1,4 @@
-# [tktk Module Name] - Level Up - tktk Microlesson Name
+# Intro to HTML - Level Up - Why `index.html`?
 
 ![Hero image](./assets/hero.png)
 

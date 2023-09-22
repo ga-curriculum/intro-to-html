@@ -1,4 +1,4 @@
-# [tktk Module Name]
+# Intro to HTML
 
 ![Hero image](./assets/tktkhero-main.png)
 
@@ -10,10 +10,15 @@ tktk What is the takeaway of this module?
 
 | Lesson | Video Time | Video | Learning Objective |
 | ------ |:----------:|:-----:| ------------------ |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk LO |
-|  **Total Module**                                        | tktk min | --            | ---     |
+| [Setup](./setup/README.md) | -- | -- | tktk LO |
+| [Concepts](./concepts/README.md) | -- | -- | tktk LO |
+| [Fundamentals](./fundamentals/README.md) | -- | -- | tktk LO |
+| [Boilerplate](./boilerplate/README.md) | -- | -- | tktk LO |
+| [Elements](./elements/README.md) | -- | -- | tktk LO |
+| [Documents](./documents/README.md) | -- | -- | tktk LO |
+| [Quirks](./quirks/README.md) | -- | -- | tktk LO |
+| [Semantic HTML](./semantic-html/README.md) | -- | -- | tktk LO |
+|  **Total Module**                                        | -- | --            | ---     |
 
 ## Additional content 
 
@@ -21,9 +26,9 @@ tktk What is the takeaway of this module?
 
 ### 🚀 Level Up
 
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md)
+- [Why `index.html`?](./level-up/why-index.md)
+- [History of HTML](./level-up/history-of-html.md)
+- [Emmet](./level-up/emmet.md)
 
 ## Internal resources
 
