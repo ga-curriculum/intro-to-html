@@ -77,7 +77,7 @@ You can add custom attributes of your own too! The HTML5 spec recommends that yo
 
 # HTML Nesting
 
-!https://i.imgur.com/4W1snYp.png
+<img src="./assets/nesting.png" alt="html in context" style="height:300px;">
 
 When an element contains another element, the contained element is considered to be *nested* inside the outer element. The HTML graphic above has colored boxes drawn around elements to help visualize the relationship between parent and child elements.
 
