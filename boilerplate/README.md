@@ -32,7 +32,7 @@ Type `!` then `[tab]` - voila!
 
 If we are going to include CSS we'll need to use the `<link>` element to load that module.
 
-Between the `<title>` and `<head>`, type `link` then `[tab]`: 
+Between the `<title>` and `</head>`, type `link` then `[tab]`: 
 
 ```html
   ...
@@ -42,20 +42,55 @@ Between the `<title>` and `<head>`, type `link` then `[tab]`:
 ...
 ```
 
-Now let's update the `href=""` 
-
+Now let's update the `href=""` with the relative path of your CSS module, including its extension. (e.g. *style.css*)
 
 ```html
+<head>
   ...
-  <title>Intro to HTML & CSS</title>
+  <title>Document</title>
   <link rel="stylesheet" href="style.css">
 </head>
 ...
 ```
 
+## Linking a JavaScript Module
+
+If we are going to include JavaScript we'll need to use the `<script>` element to load that module.
+
+Between the `<title>` and `</head>`, type `script` then `[tab]`:
+
+```html
+<head>
+  ...
+  <title>DOM Practice</title>
+  <script></script>
+</head>
+```
+
+Now let's add the `src=""` attribute with the relative path of your JS module, including its extension. (e.g. *main.js*)
+
+```html
+<head>
+  ...
+  <title>DOM Practice</title>
+  <script src="js/main.js"></script>
+</head>
+```
+
+Finally, add the `defer` attribute to ensure the DOM is ready before the script executes
+
+```html
+<head>
+  ...
+  <title>DOM Practice</title>
+  <script defer src="js/main.js"></script>
+</head>
+```
+
+## Updating the Title
+and `<title>` as follows:
+
+
 > The `<title>` element determines the text displayed in the browser tab for the page.
 used to load the _style.css_ stylesheet, let's add it back using Emmet's help again...
 
-
-## HTML5 Boilerplate
-and `<title>` as follows:
