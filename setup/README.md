@@ -15,25 +15,3 @@ Today we will use an actual project structure instead of working within Replit.
 6. Create an `index.html` file:  `touch index.html`
 7. Open the directory in VS Code: `code .`
 8. Open `index.html` in the editor and use `! [tab]` to create the HTML boilerplate [Boilerplate](../boilerplate/README.md)
-9. Create a `js` directory and touch a `js/main.js` file
-10. Add a `<script>` tag to include `main.js` in the `<head>`:
-
-	```html
-	<head>
-	  ...
-	  <title>DOM Practice</title>
-	  <script defer src="js/main.js"></script>
-	</head>
-	```
-	> The `defer` attribute ensures the DOM is ready before the script executes.
-9. Finally, let's add an `<h1>` inside of the `<body>` as follows:
-
-	```html
-	...
-	<body>
-	  <h1 id="title" class="main-title">DOM Practice</h1>
-	  
-	</body>
-	</html>
-	```
-	> Note: It's a best practice to use double quotes and kebab-casing in HTML.
