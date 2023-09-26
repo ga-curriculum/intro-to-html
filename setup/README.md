@@ -1,6 +1,6 @@
 # Intro to HTML - Setup
 
-![Hero image](../assets/hero.png)
+![Hero image](../assets/tktkhero-secondary.png)
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
 
