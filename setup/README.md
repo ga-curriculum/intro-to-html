@@ -4,8 +4,6 @@
 
 **Learning objective:** By the end of this lesson, students will be able to create a new directory to include an index.html file to practice HTML concepts and fundamentals.
 
-Today we will use an actual project structure instead of working within Replit.
-
 ### Create the Project Files
 1. Make sure you are in your root directory: `cd ~`
 2. Make a `code` folder (*if you haven't yet*): `mkdir code`  
