@@ -14,7 +14,7 @@ Today we will use an actual project structure instead of working within Replit.
 5. Move into the new directory: `cd basic-html`
 6. Create an `index.html` file:  `touch index.html`
 7. Open the directory in VS Code: `code .`
-8. Open `index.html` in the editor and use `! [tab]` to create the HTML boilerplate
+8. Open `index.html` in the editor and use `! [tab]` to create the HTML boilerplate [Boilerplate](README.md./boilerplate/README.md)
 9. Create a `js` directory and touch a `js/main.js` file
 10. Add a `<script>` tag to include `main.js` in the `<head>`:
 
