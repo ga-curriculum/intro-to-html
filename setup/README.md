@@ -2,7 +2,7 @@
 
 ![Hero image](../assets/tktkhero-secondary.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to create a new directory to include an index.html file to practice HTML concepts and fundamentals.
 
 Today we will use an actual project structure instead of working within Replit.
 
