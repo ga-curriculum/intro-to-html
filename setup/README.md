@@ -12,4 +12,7 @@
 5. Move into the new directory: `cd basic-html`
 6. Create an `index.html` file:  `touch index.html`
 7. Open the directory in VS Code: `code .`
-8. Open `index.html` in the editor and use `! [tab]` to create the HTML boilerplate [Boilerplate](../boilerplate/README.md)
+8. Open `index.html` in the editor.
+9. Create the HTML boilerplate and use `! [tab]` to create the HTML boilerplate 
+- If you've done this before, go ahead and use `! [tab]`
+- If you're new to HTML boilerplate, the [Boilerplate](../boilerplate/README.md) module will walk you through it...
