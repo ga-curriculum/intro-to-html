@@ -37,23 +37,3 @@ Today we will use an actual project structure instead of working within Replit.
 	</html>
 	```
 	> Note: It's a best practice to use double quotes and kebab-casing in HTML.
-
-### View `index.html` in Live Server
-
-In order to view the `index.html` page in the browser, we're going to install a popular extension in VS Code called [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-
-Click on the Extensions icon in VS Code's activity bar:
-
-<img src="https://i.imgur.com/Lz2ZFgU.png" width="50%">
-
-Type "Live Server" into the Search input and click the green `[Install]` button for the top Live Server result as shown:
-
-<img src="https://i.imgur.com/KPJaX7K.png" width="50%">
-
-To return to the file explorer, click the icon in the top-left, then, to start Live Server, click "Go Live" in the status bar at the bottom:
-
-<img src="https://i.imgur.com/fUPBsng.png" width="50%">
-
-Live Server should automatically open `index.html` in a new browser tab:
-
-<img src="https://i.imgur.com/8iCPHQm.png">
