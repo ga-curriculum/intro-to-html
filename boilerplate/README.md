@@ -28,7 +28,9 @@ Type `!` then `[tab]` - voila!
 </html>
 ```
 
-We've lost the `<link>` element used to load the _style.css_ stylesheet, let's add it back using Emmet's help again...
+## Linking a CSS Module
+
+If we are going to include CSS we'll need to use the `<link>` element to load that module.
 
 Between the `<title>` and `<head>`, type `link` then `[tab]`: 
 
@@ -40,7 +42,8 @@ Between the `<title>` and `<head>`, type `link` then `[tab]`:
 ...
 ```
 
-Now let's update the `href=""` and `<title>` as follows:
+Now let's update the `href=""` 
+
 
 ```html
   ...
@@ -51,3 +54,8 @@ Now let's update the `href=""` and `<title>` as follows:
 ```
 
 > The `<title>` element determines the text displayed in the browser tab for the page.
+used to load the _style.css_ stylesheet, let's add it back using Emmet's help again...
+
+
+## HTML5 Boilerplate
+and `<title>` as follows:
