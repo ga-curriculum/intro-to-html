@@ -11,9 +11,9 @@ tktk What is the takeaway of this module?
 | Lesson | Video Time | Video | Learning Objective |
 | ------ |:----------:|:-----:| ------------------ |
 | [Setup](./setup/README.md) | -- | -- | tktk LO |
+| [Boilerplate](./boilerplate/README.md) | -- | -- | tktk LO |
 | [Concepts](./concepts/README.md) | -- | -- | tktk LO |
 | [Fundamentals](./fundamentals/README.md) | -- | -- | tktk LO |
-| [Boilerplate](./boilerplate/README.md) | -- | -- | tktk LO |
 | [Elements](./elements/README.md) | -- | -- | tktk LO |
 | [Documents](./documents/README.md) | -- | -- | tktk LO |
 | [Quirks](./quirks/README.md) | -- | -- | tktk LO |
