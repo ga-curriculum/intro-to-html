@@ -100,3 +100,17 @@ Updating the `<title>` is as simple as changing the text between the opening and
 </head>
 ```
 
+## Ensure Elements Render
+
+Finally, let's add an `<h1>` inside of the `<body>` to be sure our **index.html** module is loading, as follows:
+
+```html
+...
+<body>
+  <h1 id="title" class="main-title">DOM Practice</h1>
+  
+</body>
+</html>
+```
+
+📚 It's a best practice to use double quotes and kebab-casing in HTML.
