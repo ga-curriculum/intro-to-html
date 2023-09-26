@@ -3,3 +3,57 @@
 ![Hero image](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
+
+Today we will use an actual project structure instead of working within Replit.
+
+### Create the Project Files
+1. Make sure you are in your root directory: `cd ~`
+2. Make a `code` folder (*if you haven't yet*): `mkdir code`  
+3. Move into your `code` folder/directory: `cd code`	
+4. Create a new directory named `dom-practice`:  `mkdir dom-practice`
+5. Move into the new directory: `cd dom-practice`
+6. Create an `index.html` file:  `touch index.html`
+7. Open the directory in VS Code: `code .`
+8. Open `index.html` in the editor and use `! [tab]` to create the HTML boilerplate
+9. Create a `js` directory and touch a `js/main.js` file
+10. Add a `<script>` tag to include `main.js` in the `<head>`:
+
+	```html
+	<head>
+	  ...
+	  <title>DOM Practice</title>
+	  <script defer src="js/main.js"></script>
+	</head>
+	```
+	> The `defer` attribute ensures the DOM is ready before the script executes.
+9. Finally, let's add an `<h1>` inside of the `<body>` as follows:
+
+	```html
+	...
+	<body>
+	  <h1 id="title" class="main-title">DOM Practice</h1>
+	  
+	</body>
+	</html>
+	```
+	> Note: It's a best practice to use double quotes and kebab-casing in HTML.
+
+### View `index.html` in Live Server
+
+In order to view the `index.html` page in the browser, we're going to install a popular extension in VS Code called [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+
+Click on the Extensions icon in VS Code's activity bar:
+
+<img src="https://i.imgur.com/Lz2ZFgU.png" width="50%">
+
+Type "Live Server" into the Search input and click the green `[Install]` button for the top Live Server result as shown:
+
+<img src="https://i.imgur.com/KPJaX7K.png" width="50%">
+
+To return to the file explorer, click the icon in the top-left, then, to start Live Server, click "Go Live" in the status bar at the bottom:
+
+<img src="https://i.imgur.com/fUPBsng.png" width="50%">
+
+Live Server should automatically open `index.html` in a new browser tab:
+
+<img src="https://i.imgur.com/8iCPHQm.png">
