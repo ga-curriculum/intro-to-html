@@ -1,6 +1,6 @@
 # Intro to HTML - Boilerplate
 
-![Hero image](./assets/hero.png)
+![Hero image](../assets/tktkhero-main-subhead.png)
 
 **Learning objective:** By the end of this lesson, students will be able to create HTML boilerplate, and connect JS and CSS modules, if needed.
 
