@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to create HTML boilerplate, and connect JS and CSS modules, if needed.
 
 ## HTML5 Boilerplate
 
