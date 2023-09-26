@@ -88,9 +88,15 @@ Finally, add the `defer` attribute to ensure the DOM is ready before the script 
 ```
 
 ## Updating the Title
-and `<title>` as follows:
 
+The `<title>` element determines the text displayed in the browser tab for the page.
 
-> The `<title>` element determines the text displayed in the browser tab for the page.
-used to load the _style.css_ stylesheet, let's add it back using Emmet's help again...
+Updating the `<title>` is as simple as changing the text between the opening and closing `<title>` tags, (e.g. from *Document* to *HTML Boilerplate*) as follows:
+
+```html
+<head>
+  ...
+  <title>HTML Boilerplate</title>
+</head>
+```
 
