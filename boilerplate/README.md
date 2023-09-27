@@ -2,7 +2,7 @@
 
 ![Hero image](../assets/tktkhero-main-subhead.png)
 
-**Learning objective:** By the end of this lesson, students will be able to create HTML boilerplate, and connect JS and CSS modules, if needed.
+**Learning objective:** By the end of this lesson, students will be able to build a basic HTML web page from scratch, and connect JS and CSS modules, if needed.
 
 ## HTML5 Boilerplate
 
