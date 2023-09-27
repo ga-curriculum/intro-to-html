@@ -10,15 +10,17 @@
 <img src="./assets/html.png" alt="intro to html" style="height:300px;">
 <br>
 
-Content Needed
+***Content Needed***
 
 ## Why use HTML?
 
-Content Needed
+***Content Needed***
 
 ## HTML in Context
 
 ### The 3 fundamental client-side technologies of a web app:
+
+***Additional introduction for this Venn?***
 
 <img src="./assets/html-css-js.png" alt="html in context" style="height:500px;">
 
