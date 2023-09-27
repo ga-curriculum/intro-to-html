@@ -38,25 +38,52 @@ Note the **slash** in the closing tag.
 <img>
 ```
 
-Lowercase is used for both tags and attribute names.
-
-
 ## Elements
 
 An **Element** consists of a *Tag* and its contents (if any), which may include other tags as well. For example:
 
+**Paragraph Element with text:**
+```html
+<p>Have a great day!</p>
+```
+
+**Div Element with text:**
+```html
+<div>Introduction to HTML</div>
+```
+
+**Paragraph Element with text and <span> element:**
 ```html
 <p>Have a <span>great</span> day!</p>
 ```
-
-^^***Add a few more examples w/o nesting, and show both ways to nest, link to nesting below?***
+🧠 This is called nesting elements and don't worry, it's covered below. Just follow this [link](/elements/README.md#html-nesting)!
 
 Some elements, such as a table cell `<td>`, would be pointless unless nested inside a `<tr>` row element.
 
-^^***Add an example of this***
+**Like this:**
+```html
+<table>
+  ...
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JS</td>
+  </tr>
+</table>
+```
 
-> ‼️ Unlike JavaScript, our browsers will not complain if we make HTML or CSS mistakes. Instead, it just transparently does its best to correct our mistakes or fail.
+**Never like this:**
+```html
+<div></div>
+...
+<td>HTML</td>
+<td>CSS</td>
+<td>JS</td>
+...
+<p></p>
+```
 
+> ‼️ Unlike JavaScript, our browsers will not complain if we make HTML or CSS mistakes. Instead, it just transparently does its best to correct our mistakes or fail. More about this in [HTML Quirks](../quirks/README.md#malformed-html)!
 
 Most elements are defined as either *block* or *inline* elements.
 
@@ -92,6 +119,9 @@ The *value* should always be put in double-quotes (not single quotes). For examp
   alt="Liam, a schnauzer, resting on a bed among his multi-color ducks"
 >
 ```
+
+Lowercase is used for both tags and attribute names.
+
 The most common attribute is `class` for assigning CSS class(es) to an element.
 
 The `id` attribute is used to target a specific element (or its contents) more easily for styling or JS access. The value of an `id` attribute should be unique in the document. The `id` attribute is optional and should be used *only when necessary* - the less we clutter our code, the better.
