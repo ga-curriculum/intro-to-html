@@ -14,7 +14,7 @@ Most **Tags** have an opening and closing tag name inside angle brackets like th
 <p></p>
 ```
 
-**Div Tag:**
+**Div Tag (*div*ision or section, used as a container):**
 ```html
 <div></div>
 ```
