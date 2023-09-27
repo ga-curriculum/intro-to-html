@@ -19,7 +19,7 @@ Most **Tags** have an opening and closing tag name inside angle brackets like th
 <div></div>
 ```
 
-**Heading Tag:**
+**Heading Tag (1 of 6):**
 ```html
 <h1></h1>
 ```
