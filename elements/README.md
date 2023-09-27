@@ -9,13 +9,22 @@
 
 Most **Tags** have an opening and closing tag name inside angle brackets like this:
 
+**Paragraph Tag:**
 ```html
 <p></p>
 ```
 
-^^***Add a few more examples***
+**Div Tag:**
+```html
+<div></div>
+```
 
-Note the slash in the closing tag.
+**Heading Tag:**
+```html
+<h1></h1>
+```
+
+Note the **slash** in the closing tag.
 
 Some tags such as `<img>` and `<br>` are called *empty tags* because they **never have content** and thus do not have a closing tag. Before HTML5, empty tags typically had a slash before the last angle bracket like this `<br/>`; however, since the introduction of HTML5, it is preferable to omit the slash.
 
