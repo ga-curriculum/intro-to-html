@@ -13,6 +13,8 @@ Most **Tags** have an opening and closing tag name inside angle brackets like th
 <p></p>
 ```
 
+^^***Add a few more examples***
+
 Note the slash in the closing tag.
 
 Some tags such as `<img>` and `<br>` are called *empty tags* because they **never have content** and thus do not have a closing tag. Before HTML5, empty tags typically had a slash before the last angle bracket like this `<br/>`; however, since the introduction of HTML5, it is preferable to omit the slash.
@@ -23,6 +25,8 @@ Some tags such as `<img>` and `<br>` are called *empty tags* because they **neve
   alt="Liam, a schnauzer, resting on a bed among his multi-color ducks"
 >
 ```
+
+^^***Add an example where the tag is not split, then show how to split tag for numerous attributes***
 
 Lowercase is used for both tags and attribute names.
 
@@ -35,8 +39,11 @@ An **Element** consists of a *Tag* and its contents (if any), which may include 
 <p>Have a <span>great</span> day!</p>
 ```
 
+^^***Add a few more examples w/o nesting, and show both ways to nest, link to nesting below?***
+
 Some elements, such as a table cell `<td>`, would be pointless unless nested inside a `<tr>` row element.
 
+^^***Add an example of this***
 
 > ‼️ Unlike JavaScript, our browsers will not complain if we make HTML or CSS mistakes. Instead, it just transparently does its best to correct our mistakes or fail.
 
@@ -46,11 +53,14 @@ Most elements are defined as either *block* or *inline* elements.
 - **Block** elements display on their own line and take up the full width available to them (they don’t allow other elements next to them unless they are styled to do so).
     
     Examples: `<div>`, `<h1>`, `<p>`
+
+^^***Images of these?***
     
 - **Inline** elements are normally displayed without line breaks and occupy only enough space to contain their contents.
     
     Examples: `<span>`, `<td>`, `<img>`
-    
+
+^^***Images of these?***
 
 > 🧠 Inline elements generally cannot have their height and width set in CSS. However, using CSS like this, display: inline-block;, allows inline elements to be sized.
     
@@ -73,7 +83,11 @@ The `id` attribute is used to target a specific element (or its contents) more e
 
 A few attributes, such as `required`, `checked`, `novalidate`, and `disabled`, stand alone without a value called *boolean attributes*.
 
+^^***Images of these?***
+
 You can add custom attributes of your own too! The HTML5 spec recommends that you prefix them with `data-`. Developers can use custom attributes to add additional information to the markup. They are commonly used by front-end frameworks such as AngularJS.
+
+^^***Images of these?***
 
 # HTML Nesting
 
