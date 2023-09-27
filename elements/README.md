@@ -26,16 +26,17 @@ Most **Tags** have an opening and closing tag name inside angle brackets like th
 
 Note the **slash** in the closing tag.
 
-Some tags such as `<img>` and `<br>` are called *empty tags* because they **never have content** and thus do not have a closing tag. Before HTML5, empty tags typically had a slash before the last angle bracket like this `<br/>`; however, since the introduction of HTML5, it is preferable to omit the slash.
+**Some tags** such as `<img>` and `<br>` are called *empty tags* because they **never have content** and thus do not have a closing tag. Before HTML5, empty tags typically had a slash before the last angle bracket like this `<br/>`; however, since the introduction of HTML5, it is preferable to omit the slash.
 
+**Line Break Tag:**
 ```html
-<img 
-  src="https://super-bucket-extreme.s3.us-east-2.amazonaws.com/liam.jpg" 
-  alt="Liam, a schnauzer, resting on a bed among his multi-color ducks"
->
+<br>
 ```
 
-^^***Add an example where the tag is not split, then show how to split tag for numerous attributes***
+**Image Tag:**
+```html
+<img>
+```
 
 Lowercase is used for both tags and attribute names.
 
@@ -85,7 +86,12 @@ The *value* should always be put in double-quotes (not single quotes). For examp
 ```html
 <div class="my-class">My Content</div>
 ```
-
+```html
+<img 
+  src="https://super-bucket-extreme.s3.us-east-2.amazonaws.com/liam.jpg" 
+  alt="Liam, a schnauzer, resting on a bed among his multi-color ducks"
+>
+```
 The most common attribute is `class` for assigning CSS class(es) to an element.
 
 The `id` attribute is used to target a specific element (or its contents) more easily for styling or JS access. The value of an `id` attribute should be unique in the document. The `id` attribute is optional and should be used *only when necessary* - the less we clutter our code, the better.
