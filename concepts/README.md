@@ -2,7 +2,7 @@
 
 ![Hero image](../assets/tktkhero-main-subhead.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to have an understand of what HTML is and what it does, its role in creating web content, and how it can benefit an application.
 
 
 ## What is HTML?
