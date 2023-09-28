@@ -113,7 +113,6 @@ Most elements are defined as either *block* or *inline* elements.
 **The difference not is because they are inline elements, they will share the line and do not take up the full width of the browser:**
 
 ![HTML in Browser](./assets/html-in-browser-inline.png)
-^^***Images of these?***
 
 > 🧠 Inline elements generally cannot have their height and width set in CSS. However, using CSS like this, display: inline-block;, allows inline elements to be sized.
     
@@ -144,11 +143,47 @@ The `id` attribute is used to target a specific element (or its contents) more e
 
 A few attributes, such as `required`, `checked`, `novalidate`, and `disabled`, stand alone without a value called *boolean attributes*.
 
-^^***Images of these?***
+**Here is an example of using the `required` attribute on an `<input>` element as part of the `<form>`:**
+
+```html
+<form>
+  <div class="input-name">
+    <input type="text" />
+    <label>First Name</label>
+  </div>
+  <div class="input-name">
+    <input type="text" required />
+    <label>Last Name</label>
+  </div>
+  <input type="submit" />
+</form>
+```
+
+**Another example of a stand alone attribute is the `checked` attribute on an `<input>` element as part of the `<form>`. Notice the different `type` of the input as `checkbox` from above:**
+
+```html
+<form>
+  <input type="checkbox" name="js-skill" value="JS">
+  <label for="js-skill"> I know JS!</label>
+  <input type="checkbox" name="css-skill" value="CSS">
+  <label for="css-skill"> I know CSS!</label>
+  <input type="checkbox" name="html-skill" value="HTML" checked>
+  <label for="html-skill"> I know HTML</label>
+  <input type="submit" value="Submit">
+</form>
+```
 
 You can add custom attributes of your own too! The HTML5 spec recommends that you prefix them with `data-`. Developers can use custom attributes to add additional information to the markup. They are commonly used by front-end frameworks such as AngularJS.
 
-^^***Images of these?***
+**Here is an example of the `data-` attribute:**
+
+```html
+<ul>
+  <li data-skill-type="js">JS</li>
+  <li data-skill-type="css">CSS</li>
+  <li data-skill-type="html">HTML</li>
+</ul>
+```
 
 # HTML Nesting
 
