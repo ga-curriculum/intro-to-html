@@ -8,7 +8,7 @@ The practice of naming the main HTML file as **"index.html"** is rooted in web s
 
 ### Historical Context
 
-In the early stages of the web, directories would often list files openly. To create a more user-friendly experience, web administrators began using an "index" file as a welcoming or landing page for each directory.
+In the early stages of the web, directories would often list files openly. To create a more user-friendly experience, web administrators began using an **"index"** file as a welcoming or landing page for each directory.
 
 ### Server Behavior
 
