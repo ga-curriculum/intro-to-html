@@ -15,9 +15,8 @@ tktk What is the takeaway of this module?
 | [Concepts](./concepts/README.md) | -- | -- | tktk LO |
 | [Fundamentals](./fundamentals/README.md) | -- | -- | tktk LO |
 | [Elements](./elements/README.md) | -- | -- | tktk LO |
-| [Documents](./documents/README.md) | -- | -- | tktk LO |
-| [Quirks](./quirks/README.md) | -- | -- | tktk LO |
 | [Semantic HTML](./semantic-html/README.md) | -- | -- | tktk LO |
+| [Quirks](./quirks/README.md) | -- | -- | tktk LO |
 |  **Total Module**                                        | -- | --            | ---     |
 
 ## Additional content 
