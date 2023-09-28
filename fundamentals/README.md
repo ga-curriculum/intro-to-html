@@ -6,10 +6,15 @@
 
 ## Element Syntax
 
-***content needed***
-***Brief description of element***
-***Image of element (anatomy)***
-***Link to elements lesson***
+The basic syntax of HTML elements includes opening (`<div>`) and closing (`</div>`) tags, attributes (`id="my-id" class="my-class"`), and content (`This is a div!`).
+
+Here is how that would look as HTML in your editor:
+
+```html
+<div id="my-id" class="my-class">This is a div!</div>
+```
+
+You will be learning plenty more about Elements in the next module! You can follow this link to [Elements](../elements/README.md).
 
 ## HTML Documents
 
