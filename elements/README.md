@@ -93,19 +93,26 @@ Most elements are defined as either *block* or *inline* elements.
 
 **Example of HTML in VSCode. Notice how on line 1, the `<div>` and `<h1>` are coded adjacent to one another. The same for the `<h2>` and `<p>` on line 3:**
 
-![HTML in Editor](./assets/html-in-editor.png)
+![HTML in Editor](./assets/html-in-editor-block.png)
 
 **However, because they are block elements, they will render on their own line, taking up the full with available to them in the browser, as seen below:**
 
-![HTML in Browser](./assets/html-in-browser.png)
+![HTML in Browser](./assets/html-in-browser-block.png)
 
 > ‼️ Block elements will not share the line they occupy, again, unless styled to do so!
 
     
 - **Inline** elements are normally displayed without line breaks and occupy only enough space to contain their contents.
     
-    Examples: `<span>`, `<td>`, `<img>`
+    Examples: `<span>`, `<td>`, `<img>`, `<button>`
 
+**Example of HTML in VSCode. Notice how on line 1, the `<span>` and `<button>` are coded adjacent to one another, just as the elements above were:**
+
+![HTML in Editor](./assets/html-in-editor-inline.png)
+
+**The difference not is because they are inline elements, they will share the line and do not take up the full width of the browser:**
+
+![HTML in Browser](./assets/html-in-browser-inline.png)
 ^^***Images of these?***
 
 > 🧠 Inline elements generally cannot have their height and width set in CSS. However, using CSS like this, display: inline-block;, allows inline elements to be sized.
