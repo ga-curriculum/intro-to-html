@@ -15,6 +15,8 @@
 
 HTML Documents consist of **elements** that define the structure and content of a web page.
 
+![HTML in Editor](./assets/html-in-editor-page.png)
+
 ***Content Needed***
 ***Side-by-side comparison of HTML vs. content on web page***
 
