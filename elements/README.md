@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to understand the syntax of HTML, assign attributes to elements, and correctly indent and next HTML.
 
 
 ## Tags
