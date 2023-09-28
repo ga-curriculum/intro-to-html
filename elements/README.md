@@ -128,6 +128,22 @@ The *value* should always be put in double-quotes (not single quotes). For examp
 ```html
 <div class="my-class">My Content</div>
 ```
+
+At times, atttibute values could be lenghty, or you may just have a lot of them, so to make your code cleaner, you could split the opening tag as in the examples below:
+
+```html
+<div
+  class="my-class"
+  id="my-id"
+  data-my-data="my-data"
+  draggable="false"
+  hidden="false"
+  onClick="myFunction"
+>
+  My Content
+</div>
+```
+
 ```html
 <img 
   src="https://super-bucket-extreme.s3.us-east-2.amazonaws.com/liam.jpg" 
