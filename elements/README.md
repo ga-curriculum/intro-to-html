@@ -91,9 +91,16 @@ Most elements are defined as either *block* or *inline* elements.
     
     Examples: `<div>`, `<h1>`, `<p>`
 
+**Example of HTML in VSCode. Notice how on line 1, the <div> and <h1> are coded adjacent to one another. The same for the <h2> and <p> on line 3:**
+
 ![HTML in Editor](./assets/html-in-editor.png)
+
+**However, because they are block elements, they will render on their own line, taking up the full with available to them in the browser, as seen below:**
+
 ![HTML in Browser](./assets/html-in-browser.png)
-^^***Images of these?***
+
+> ‼️ Block elements will not share the line they occupy, again, unless styled to do so!
+
     
 - **Inline** elements are normally displayed without line breaks and occupy only enough space to contain their contents.
     
