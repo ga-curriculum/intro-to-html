@@ -91,6 +91,8 @@ Most elements are defined as either *block* or *inline* elements.
     
     Examples: `<div>`, `<h1>`, `<p>`
 
+![HTML in Editor](./assets/html-in-editor.png)
+![HTML in Browser](./assets/html-in-browser.png)
 ^^***Images of these?***
     
 - **Inline** elements are normally displayed without line breaks and occupy only enough space to contain their contents.
