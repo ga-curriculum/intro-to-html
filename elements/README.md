@@ -91,7 +91,7 @@ Most elements are defined as either *block* or *inline* elements.
     
     Examples: `<div>`, `<h1>`, `<p>`
 
-**Example of HTML in VSCode. Notice how on line 1, the <div> and <h1> are coded adjacent to one another. The same for the <h2> and <p> on line 3:**
+**Example of HTML in VSCode. Notice how on line 1, the `<div>` and `<h1>` are coded adjacent to one another. The same for the `<h2>` and `<p>` on line 3:**
 
 ![HTML in Editor](./assets/html-in-editor.png)
 
