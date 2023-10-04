@@ -1,8 +1,8 @@
 # Intro to HTML - Quirks
 
-![Hero image](./assets/hero.png)
+![Hero image](../assets/tktkhero-main-subhead.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to understand some to the quirks involved in using HTML to provide a deeper understanding of formatting to help avoid common errors.
 
 
 ## Whitespace

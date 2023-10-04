@@ -1,56 +1,118 @@
 # Intro to HTML - Elements
 
-![Hero image](./assets/hero.png)
+![Hero image](../assets/tktkhero-main-subhead.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to understand the syntax of HTML, assign attributes to elements, and correctly indent and next HTML.
 
 
 ## Tags
 
 Most **Tags** have an opening and closing tag name inside angle brackets like this:
 
+**Paragraph Tag:**
 ```html
 <p></p>
 ```
 
-Note the slash in the closing tag.
-
-Some tags such as `<img>` and `<br>` are called *empty tags* because they **never have content** and thus do not have a closing tag. Before HTML5, empty tags typically had a slash before the last angle bracket like this `<br/>`; however, since the introduction of HTML5, it is preferable to omit the slash.
-
+**Div Tag (*div*ision or section, used as a container):**
 ```html
-<img 
-  src="https://super-bucket-extreme.s3.us-east-2.amazonaws.com/liam.jpg" 
-  alt="Liam, a schnauzer, resting on a bed among his multi-color ducks"
->
+<div></div>
 ```
 
-Lowercase is used for both tags and attribute names.
+**Heading Tag (1 of 6):**
+```html
+<h1></h1>
+```
 
+Note the **slash** in the closing tag.
+
+**Some tags** such as `<img>` and `<br>` are called *empty tags* because they **never have content** and thus do not have a closing tag. Before HTML5, empty tags typically had a slash before the last angle bracket like this `<br/>`; however, since the introduction of HTML5, it is preferable to omit the slash.
+
+**Line Break Tag:**
+```html
+<br>
+```
+
+**Image Tag:**
+```html
+<img>
+```
 
 ## Elements
 
 An **Element** consists of a *Tag* and its contents (if any), which may include other tags as well. For example:
 
+**Paragraph Element with text:**
+```html
+<p>Have a great day!</p>
+```
+
+**Div Element with text:**
+```html
+<div>Introduction to HTML</div>
+```
+
+**Paragraph Element with text and <span> element:**
 ```html
 <p>Have a <span>great</span> day!</p>
 ```
+🧠 This is called nesting elements and don't worry, it's covered below. Just follow this [link](/elements/README.md#html-nesting)!
 
 Some elements, such as a table cell `<td>`, would be pointless unless nested inside a `<tr>` row element.
 
+**Like this:**
+```html
+<table>
+  ...
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JS</td>
+  </tr>
+</table>
+```
 
-> ‼️ Unlike JavaScript, our browsers will not complain if we make HTML or CSS mistakes. Instead, it just transparently does its best to correct our mistakes or fail.
+**Never like this:**
+```html
+<div></div>
+...
+<td>HTML</td>
+<td>CSS</td>
+<td>JS</td>
+...
+<p></p>
+```
 
+> ‼️ Unlike JavaScript, our browsers will not complain if we make HTML or CSS mistakes. Instead, it just transparently does its best to correct our mistakes or fail. More about this in [HTML Quirks](../quirks/README.md#malformed-html)!
 
 Most elements are defined as either *block* or *inline* elements.
 
 - **Block** elements display on their own line and take up the full width available to them (they don’t allow other elements next to them unless they are styled to do so).
     
     Examples: `<div>`, `<h1>`, `<p>`
+
+**Example of HTML in VSCode. Notice how on line 1, the `<div>` and `<h1>` are coded adjacent to one another. The same for the `<h2>` and `<p>` on line 3:**
+
+![HTML in Editor](./assets/html-in-editor-block.png)
+
+**However, because they are block elements, they will render on their own line, taking up the full with available to them in the browser, as seen below:**
+
+![HTML in Browser](./assets/html-in-browser-block.png)
+
+> ‼️ Block elements will not share the line they occupy, again, unless styled to do so!
+
     
 - **Inline** elements are normally displayed without line breaks and occupy only enough space to contain their contents.
     
-    Examples: `<span>`, `<td>`, `<img>`
-    
+    Examples: `<span>`, `<td>`, `<img>`, `<button>`
+
+**Example of HTML in VSCode. Notice how on line 1, the `<span>` and `<button>` are coded adjacent to one another, just as the elements above were:**
+
+![HTML in Editor](./assets/html-in-editor-inline.png)
+
+**The difference not is because they are inline elements, they will share the line and do not take up the full width of the browser:**
+
+![HTML in Browser](./assets/html-in-browser-inline.png)
 
 > 🧠 Inline elements generally cannot have their height and width set in CSS. However, using CSS like this, display: inline-block;, allows inline elements to be sized.
     
@@ -67,13 +129,77 @@ The *value* should always be put in double-quotes (not single quotes). For examp
 <div class="my-class">My Content</div>
 ```
 
+At times, atttibute values could be lenghty, or you may just have a lot of them, so to make your code cleaner, you could split the opening tag as in the examples below:
+
+```html
+<div
+  class="my-class"
+  id="my-id"
+  data-my-data="my-data"
+  draggable="false"
+  hidden="false"
+  onClick="myFunction"
+>
+  My Content
+</div>
+```
+
+```html
+<img 
+  src="https://super-bucket-extreme.s3.us-east-2.amazonaws.com/liam.jpg" 
+  alt="Liam, a schnauzer, resting on a bed among his multi-color ducks"
+>
+```
+
+Lowercase is used for both tags and attribute names.
+
 The most common attribute is `class` for assigning CSS class(es) to an element.
 
 The `id` attribute is used to target a specific element (or its contents) more easily for styling or JS access. The value of an `id` attribute should be unique in the document. The `id` attribute is optional and should be used *only when necessary* - the less we clutter our code, the better.
 
 A few attributes, such as `required`, `checked`, `novalidate`, and `disabled`, stand alone without a value called *boolean attributes*.
 
+**Here is an example of using the `required` attribute on an `<input>` element as part of the `<form>`:**
+
+```html
+<form>
+  <div class="input-name">
+    <input type="text" />
+    <label>First Name</label>
+  </div>
+  <div class="input-name">
+    <input type="text" required />
+    <label>Last Name</label>
+  </div>
+  <input type="submit" />
+</form>
+```
+
+**Another example of a stand alone attribute is the `checked` attribute on an `<input>` element as part of the `<form>`. Notice the different `type` of the input as `checkbox` from above:**
+
+```html
+<form>
+  <input type="checkbox" name="js-skill" value="JS">
+  <label for="js-skill"> I know JS!</label>
+  <input type="checkbox" name="css-skill" value="CSS">
+  <label for="css-skill"> I know CSS!</label>
+  <input type="checkbox" name="html-skill" value="HTML" checked>
+  <label for="html-skill"> I know HTML</label>
+  <input type="submit" value="Submit">
+</form>
+```
+
 You can add custom attributes of your own too! The HTML5 spec recommends that you prefix them with `data-`. Developers can use custom attributes to add additional information to the markup. They are commonly used by front-end frameworks such as AngularJS.
+
+**Here is an example of the `data-` attribute:**
+
+```html
+<ul>
+  <li data-skill-type="js">JS</li>
+  <li data-skill-type="css">CSS</li>
+  <li data-skill-type="html">HTML</li>
+</ul>
+```
 
 # HTML Nesting
 

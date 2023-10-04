@@ -1,8 +1,8 @@
 # Intro to HTML - Boilerplate
 
-![Hero image](./assets/hero.png)
+![Hero image](../assets/tktkhero-main-subhead.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to build a basic HTML web page from scratch, and connect JS and CSS modules, if needed.
 
 ## HTML5 Boilerplate
 
@@ -10,7 +10,7 @@ Most websites and applications have a default HTML file named **index.html**.
 
 **Boilerplate** is the markup that would exist in every web page, i.e., the starting point.
 
-Use the ! emmet abbreviation in index.html to create HTML boilerplate.
+Use the `!` emmet abbreviation in index.html to create HTML boilerplate.
 
 Type `!` then `[tab]` - voila!
 
@@ -18,20 +18,21 @@ Type `!` then `[tab]` - voila!
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
-  
+    
 </body>
 </html>
 ```
 
-We've lost the `<link>` element used to load the _style.css_ stylesheet, let's add it back using Emmet's help again...
+## Linking a CSS Module
 
-Between the `<title>` and `<head>`, type `link` then `[tab]`: 
+If we are going to include CSS we'll need to use the `<link>` element to load that module.
+
+Between the `<title>` and `</head>`, type `link` then `[tab]`: 
 
 ```html
   ...
@@ -41,14 +42,75 @@ Between the `<title>` and `<head>`, type `link` then `[tab]`:
 ...
 ```
 
-Now let's update the `href=""` and `<title>` as follows:
+Now let's update the `href=""` with the relative path of your CSS module, including its extension. (e.g. *style.css*)
 
 ```html
+<head>
   ...
-  <title>Intro to HTML & CSS</title>
+  <title>Document</title>
   <link rel="stylesheet" href="style.css">
 </head>
 ...
 ```
 
-> The `<title>` element determines the text displayed in the browser tab for the page.
+## Linking a JavaScript Module
+
+If we are going to include JavaScript we'll need to use the `<script>` element to load that module.
+
+Between the `<title>` and `</head>`, type `script` then `[tab]`:
+
+```html
+<head>
+  ...
+  <title>DOM Practice</title>
+  <script></script>
+</head>
+```
+
+Now let's add the `src=""` attribute with the relative path of your JS module, including its extension. (e.g. *main.js*)
+
+```html
+<head>
+  ...
+  <title>DOM Practice</title>
+  <script src="js/main.js"></script>
+</head>
+```
+
+Finally, add the `defer` attribute to ensure the DOM is ready before the script executes
+
+```html
+<head>
+  ...
+  <title>DOM Practice</title>
+  <script defer src="js/main.js"></script>
+</head>
+```
+
+## Updating the Title
+
+The `<title>` element determines the text displayed in the browser tab for the page.
+
+Updating the `<title>` is as simple as changing the text between the opening and closing `<title>` tags, (e.g. from *Document* to *HTML Boilerplate*) as follows:
+
+```html
+<head>
+  ...
+  <title>HTML Boilerplate</title>
+</head>
+```
+
+## Ensure Elements Render
+
+Finally, let's add an `<h1>` inside of the `<body>` to be sure our **index.html** module is loading, as follows:
+
+```html
+...
+<body>
+  <h1 id="title" class="main-title">DOM Practice</h1>
+  
+</body>
+</html>
+```
+
+📚 It's a best practice to use double quotes and kebab-casing in HTML.

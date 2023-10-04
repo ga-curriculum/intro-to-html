@@ -1,8 +1,8 @@
 # Intro to HTML - Semantic HTML
 
-![Hero image](./assets/hero.png)
+![Hero image](../assets/tktkhero-main-subhead.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to identify the purpose of and use HTML5 semantic elements.
 
 
 ## Semantic HTML
