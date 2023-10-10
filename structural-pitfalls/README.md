@@ -1,4 +1,4 @@
-# Intro to HTML - Quirks
+# Intro to HTML - Structural Pitfalls
 
 ![Hero image](./assets/hero.png)
 

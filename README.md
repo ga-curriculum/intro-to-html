@@ -16,7 +16,7 @@ This module covers introductory HTML concepts and syntax.
 | [Fundamentals](./fundamentals/README.md)   | --- | --- | tktk LO |
 | [Elements](./elements/README.md)           | --- | --- | tktk LO |
 | [Semantic HTML](./semantic-html/README.md) | --- | --- | tktk LO |
-| [Quirks](./quirks/README.md)               | --- | --- | tktk LO |
+| [Structural Pitfalls](./structural-pitfalls/README.md)               | --- | --- | tktk LO |
 |  **Total Module**                          | --- | --- | ---     |
 
 tktk I think this should go:
@@ -29,7 +29,7 @@ tktk I think this should go:
 - Boilerplate
 - Block vs. Inline Elements (currently elements)
 - Semantic HTML
-- Quirks (don't know about the name for this but this is the best I arrvied at)
+- Quirks
 
 ## Additional content 
 
