@@ -4,20 +4,32 @@
 
 ## Module overview
 
-tktk What is the takeaway of this module?
+This module covers introductory HTML concepts and syntax.
 
 ## Content outline
 
-| Lesson | Video Time | Video | Learning Objective |
-| ------ |:----------:|:-----:| ------------------ |
-| [Setup](./setup/README.md) | -- | -- | tktk LO |
-| [Boilerplate](./boilerplate/README.md) | -- | -- | tktk LO |
-| [Concepts](./concepts/README.md) | -- | -- | tktk LO |
-| [Fundamentals](./fundamentals/README.md) | -- | -- | tktk LO |
-| [Elements](./elements/README.md) | -- | -- | tktk LO |
-| [Semantic HTML](./semantic-html/README.md) | -- | -- | tktk LO |
-| [Quirks](./quirks/README.md) | -- | -- | tktk LO |
-|  **Total Module**                                        | -- | --            | ---     |
+| Lesson | Video Time | Video | Topics Covered |
+| ------ |:----------:|:-----:| -------------- |
+| [Setup](./setup/README.md)                 | --- | --- | --- |
+| [Boilerplate](./boilerplate/README.md)     | --- | --- | tktk LO |
+| [Concepts](./concepts/README.md)           | --- | --- | tktk LO |
+| [Fundamentals](./fundamentals/README.md)   | --- | --- | tktk LO |
+| [Elements](./elements/README.md)           | --- | --- | tktk LO |
+| [Semantic HTML](./semantic-html/README.md) | --- | --- | tktk LO |
+| [Quirks](./quirks/README.md)               | --- | --- | tktk LO |
+|  **Total Module**                          | --- | --- | ---     |
+
+tktk I think this should go:
+
+- Setup
+- Concepts
+- Fundamentals (Maybe rename this to elements)
+- Element attributes (currently the middle of Fundamentals)
+- Nesting elements (currently the end of Fundamentals)
+- Boilerplate
+- Block vs. Inline Elements (currently elements)
+- Semantic HTML
+- Quirks (don't know about the name for this but this is the best I arrvied at)
 
 ## Additional content 
 

@@ -1,18 +1,32 @@
 # Intro to HTML - Setup
 
-![Hero image](../assets/tktkhero-main-subhead.png)
+![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to create a new directory to include an index.html file to practice HTML concepts and fundamentals.
+Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 
-### Create the Project Files
-1. Make sure you are in your root directory: `cd ~`
-2. Make a `code` folder (*if you haven't yet*): `mkdir code`  
-3. Move into your `code` folder/directory: `cd code`	
-4. Create a new directory named `basic-html`:  `mkdir basic-html`
-5. Move into the new directory: `cd basic-html`
-6. Create an `index.html` file:  `touch index.html`
-7. Open the directory in VS Code: `code .`
-8. Open `index.html` in the editor.
-9. Create the HTML boilerplate and use `! [tab]` to create the HTML boilerplate 
-	- If you've done this before, go ahead and use `! [tab]`
-	- If you're new to HTML boilerplate, the [Boilerplate](../boilerplate/README.md) module will walk you through it...
+```bash
+cd ~/code/ga/lectures
+```
+
+Make a new directory called `html-intro`, then enter this directory:
+
+```bash
+mkdir html-intro
+cd html-intro
+```
+
+Then, create an `index.html` file. These files will hold your work for this lecture:
+
+```bash
+touch index.html
+```
+
+With the files created, open the contents of the directory in VS Code:
+
+```bash
+code .
+```
+
+Open the `index.html` file and add HTML boilerplate by typing `!` and then hitting the `Tab` key. 
+
+Open the `index.html` file in your browser.

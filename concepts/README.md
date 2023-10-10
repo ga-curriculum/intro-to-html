@@ -1,46 +1,23 @@
 # Intro to HTML - Concepts
 
-![Hero image](../assets/tktkhero-main-subhead.png)
+![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to have an understand of what HTML is and what it does, its role in creating web content, and how it can benefit an application.
-
+**Learning objective:** By the end of this lesson, students will have an understanding of what HTML is and what it does, its role in creating web content, and how it can benefit an application.
 
 ## What is HTML?
 
-<img src="./assets/html.png" alt="intro to html" style="height:300px;">
-<br>
+HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. 
 
-HTML is an acronym which stands for **HyperText Markup Language**. It is the standard markup language for documents designed to be displayed in a web browser by creating the structure of web content.
+HyperText? Markup? HyperText is text displayed on a digital device with references to other text that can be navigated to using hyperlinks (commonly called links). Markup provides both structure and semantic meaning to content. For example, an `<h1>` indicates the main heading for a document, while `<p>` represents a paragraph of text.
 
-When a request is made by a web browser, it receives HTML documents from a web server and renders those documents into multimedia web pages.
+In other words, HTML is a language for writing structured documents that link to one another.
 
-HTML is one of the three main technologies used in creating web content in browsers, joined by **Cascading Style Sheets (CSS)** and **JavaScript (JS)**.
+When a web browser makes a request, it receives HTML documents from a web server and renders those documents into web pages.
 
+HTML is one of the three main technologies used in creating web content in browsers, joined by CSS and JavaScript.
 
 ## Why use HTML?
 
-In addition to HTML providing the structure of web content, it can also play a key role in **Search Engine Optimization (SEO)**. Depending on how documents are structured by utilizing the correct tags, HTML can improve their changec of showing up in requested searches, leading to imporoved visibility and success, from a marketing perspective
+Just like a house needs structural framing to stand, websites need structural content to style and assign behavior to. Fun and interactive sites are built on a base of HTML.
 
-## HTML in Context
-
-### The 3 fundamental client-side technologies of a web app:
-
-As mentioned above, HTML works in conjuction with CSS and JavaScript. Below is additional information on these three technologies and a visual of how they work together.
-
-<img src="./assets/html-css-js.png" alt="html in context" style="height:500px;">
-
-
-##### HTML (Hypertext Markup Language)
-- Purpose: Content and overall Structure of a web page
-- Current Version: HTML5
-- Standards Body: [World Wide Web Consortium (W3C)](https://www.w3.org/)
-
-##### CSS (Cascading Style Sheets)
-- Purpose: Styling & Layout of a web page
-- Current Version: CSS3, with new "modules" still being added
-- Standards Body: [CSS Working Group of the W3C](https://www.w3.org/Style/CSS/)
-
-##### JavaScript (ECMAScript)
-- Purpose: Behavior of a web page
-- Current Versions: [Best shown here](https://en.wikipedia.org/wiki/ECMAScript) with [browser compliance status here](http://kangax.github.io/compat-table/es2016plus/)
-- Standards Body: [ECMA International - TC39 Task Group](http://ecma-international.org/memento/tc39.htm)
+In addition to HTML providing the structure of web content, it can also play a key role in search engine optimization (SEO). Depending on how documents are structured, HTML can improve their chances of appearing in requested searches. This can lead to improved visibility and success from a marketing perspective.

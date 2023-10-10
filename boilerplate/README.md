@@ -1,26 +1,22 @@
 # Intro to HTML - Boilerplate
 
-![Hero image](../assets/tktkhero-main-subhead.png)
+![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to build a basic HTML web page from scratch, and connect JS and CSS modules, if needed.
+**Learning objective:** By the end of this lesson, students will be able to build a basic HTML web page using HTML boilerplate.
 
-## HTML5 Boilerplate
+## HTML boilerplate
 
-Most websites and applications have a default HTML file named **index.html**.
+HTML boilerplate is the markup that exists on every web page. In other words, it's the starting point for any work.
 
-**Boilerplate** is the markup that would exist in every web page, i.e., the starting point.
-
-Use the `!` emmet abbreviation in index.html to create HTML boilerplate.
-
-Type `!` then `[tab]` - voila!
+We've already discovered how to add this boilerplate - type a `!` in the `index.html` file and press `Tab` to create it. Below is the result of that. Note that our current HTML has a little more right now, but focus on these parts for now:
 
 ```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
 </head>
 <body>
     
@@ -28,89 +24,22 @@ Type `!` then `[tab]` - voila!
 </html>
 ```
 
-## Linking a CSS Module
+The first line, `<!DOCTYPE html>` indicates to a browser that this will be an HTML file.
 
-If we are going to include CSS we'll need to use the `<link>` element to load that module.
+The second line, `<html lang="en">`, is the ***root*** element. Like the root of a family tree, this element is the ancestor of every other element. All other elements will be descendants of this element. `lang="en"` indicates that most of the content on this page will be written in English.
 
-Between the `<title>` and `</head>`, type `link` then `[tab]`: 
+All elements inside of the `<head>` element hold information about the document (metadata) or are resources related to this document.
 
-```html
-  ...
-  <title>Document</title>
-  <link rel="stylesheet" href="">
-</head>
-...
-```
+The first `<meta>` element informs the browser of the type of text that will appear on the page using the `charset` attribute. The second `<meta>` element will help mobile browsers display this content appropriately using the `name` and `content` attributes. Do not alter these elements.
 
-Now let's update the `href=""` with the relative path of your CSS module, including its extension. (e.g. *style.css*)
+The `<title>` element holds the text that will be shown in the tab for the page.
 
-```html
-<head>
-  ...
-  <title>Document</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-...
-```
+Anything we want to appear on the page goes into the `<body>` element. This is where we've written everything in this document so far.
 
-## Linking a JavaScript Module
+## Updating the title
 
-If we are going to include JavaScript we'll need to use the `<script>` element to load that module.
-
-Between the `<title>` and `</head>`, type `script` then `[tab]`:
+Update the `<title>`, change the text between the opening and closing `<title>` tags from `Document` to `Intro to HTML` as follows:
 
 ```html
-<head>
-  ...
-  <title>DOM Practice</title>
-  <script></script>
-</head>
+<title>Intro to HTML</title>
 ```
-
-Now let's add the `src=""` attribute with the relative path of your JS module, including its extension. (e.g. *main.js*)
-
-```html
-<head>
-  ...
-  <title>DOM Practice</title>
-  <script src="js/main.js"></script>
-</head>
-```
-
-Finally, add the `defer` attribute to ensure the DOM is ready before the script executes
-
-```html
-<head>
-  ...
-  <title>DOM Practice</title>
-  <script defer src="js/main.js"></script>
-</head>
-```
-
-## Updating the Title
-
-The `<title>` element determines the text displayed in the browser tab for the page.
-
-Updating the `<title>` is as simple as changing the text between the opening and closing `<title>` tags, (e.g. from *Document* to *HTML Boilerplate*) as follows:
-
-```html
-<head>
-  ...
-  <title>HTML Boilerplate</title>
-</head>
-```
-
-## Ensure Elements Render
-
-Finally, let's add an `<h1>` inside of the `<body>` to be sure our **index.html** module is loading, as follows:
-
-```html
-...
-<body>
-  <h1 id="title" class="main-title">DOM Practice</h1>
-  
-</body>
-</html>
-```
-
-📚 It's a best practice to use double quotes and kebab-casing in HTML.
