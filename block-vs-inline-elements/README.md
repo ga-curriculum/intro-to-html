@@ -1,4 +1,4 @@
-# Intro to HTML - Elements
+# Intro to HTML - Block vs. Inline Elements
 
 ![Hero image](./assets/hero.png)
 
@@ -15,9 +15,12 @@ Most elements are defined as either *block* or *inline* elements.
 
 Examples of block elements include `<div>`, `<h1>`, and `<p>` elements.
 
-The way we write code does not have any impact on how these appear in the browser. Here, on line 1, the `<div>` and `<h1>` are coded adjacent to one another. The same for the `<h2>` and `<p>` on line 3:
+The way we write code does not have any impact on how these appear in the browser. Here, on line 1, the `<div>` and `<h1>` are coded adjacent to one another. The same for the `<h2>` and `<p>` on the next line:
 
-![HTML in Editor](./assets/html-in-editor-block.png)
+```html
+<div>This is a div!</div><h1>This is an h1!</h1>
+<h2>This is an h2!</h2><p>This is a paragraph</p>
+```
 
 Because they are block elements, they will render on their own line, taking up the full width available to them in the browser, as seen below:
 
@@ -29,7 +32,9 @@ Examples of inline elements include the `<span>`, `<td>`, `<img>`, and `<button>
 
 Notice how, on line 1, the `<span>` and `<button>` are coded adjacent to one another, just as the elements above were:
 
-![HTML in Editor](./assets/html-in-editor-inline.png)
+```html
+<span>I'm a span!</span><button>I'm a button!</button>
+```
 
 The difference is because they are inline elements, they will share the line and do not take up the full width of the browser:
 
@@ -44,3 +49,4 @@ How we wrote the code for these doesn't matter. What matters is the built-in beh
 > 🧠 Inline elements generally cannot have their height and width set in CSS. However, using CSS like this, `display: inline-block;`, allows inline elements to be sized.
 >
 > Some inline elements (for example, the `<img>`) are [replaced inline elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element) and can be given width and height without changing them into inline-block elements.
+ 

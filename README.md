@@ -11,25 +11,15 @@ This module covers introductory HTML concepts and syntax.
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
 | [Setup](./setup/README.md)                 | --- | --- | --- |
-| [Boilerplate](./boilerplate/README.md)     | --- | --- | tktk LO |
 | [Concepts](./concepts/README.md)           | --- | --- | tktk LO |
-| [Fundamentals](./fundamentals/README.md)   | --- | --- | tktk LO |
-| [Elements](./elements/README.md)           | --- | --- | tktk LO |
+| [Comments and Elements](./comments-and-elements/README.md)           | --- | --- | tktk LO |
+| [Element Attributes](./element-attributes/README.md)           | --- | --- | tktk LO |
+| [Nesting Elements](./nesting-elements/README.md)           | --- | --- | tktk LO |
+| [Boilerplate](./boilerplate/README.md)     | --- | --- | tktk LO |
+| [Block vs. Inline Elements](./block-vs-inline-elements/README.md)           | --- | --- | tktk LO |
 | [Semantic HTML](./semantic-html/README.md) | --- | --- | tktk LO |
 | [Structural Pitfalls](./structural-pitfalls/README.md)               | --- | --- | tktk LO |
 |  **Total Module**                          | --- | --- | ---     |
-
-tktk I think this should go:
-
-- Setup
-- Concepts
-- Fundamentals (Maybe rename this to elements)
-- Element attributes (currently the middle of Fundamentals)
-- Nesting elements (currently the end of Fundamentals)
-- Boilerplate
-- Block vs. Inline Elements (currently elements)
-- Semantic HTML
-- Quirks
 
 ## Additional content 
 
