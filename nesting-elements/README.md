@@ -56,7 +56,6 @@ Some elements, like the list item `<li>` element, must be nested inside another 
 ### Nested relationships
 
 ![HTML in the editor](./assets/nesting.png)
-tktk Hunter, can you take the HTML from above and put it in a graphic like this?
 
 When elements are nested, they form relationships with one another.
 
@@ -67,11 +66,9 @@ When elements are nested, they form relationships with one another.
 Visualizing this with a family tree-like view may help. 
 
 ![The DOM tree](./assets/tree.png)
-tktk Hunter, can you give this the Hunter treatment?
 
 Just like in real life, a child can also be a parent (the `<ul>` element is a child of the `<div>` element and simultaneously the parent of the `<li>` elements). Again, proper indentation of your HTML helps keep these relationships clear and organized.
 
 This is more than an analogy - this is the ideal way to think about how dom elements are connected because it even applies to how elements are shown to users in the browser.
 
-![HTML shown in the browser](./assets/originals/html-in-browser.png)
-tktk Hunter, starting with this as a base (or making your own base), can you take the highlighting from the nesting graphic at the top of this section and apply that to this?
+![HTML shown in the browser](./assets/html-in-the-browser.png)
