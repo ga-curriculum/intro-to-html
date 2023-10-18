@@ -24,13 +24,7 @@ HTML documents are made up of elements.
 
 At their simplest, elements are a pair of tags with content between them.
 
-```html
-<body>
-  <h1>HTML Content!</h1>
-</body>
-```
-
-tktk Hunter, can you turn the above syntax into a graphic with labels matching the below, similar to our other syntax assets?
+![Element Syntax](./assets/element-syntax.png)
 
 1. The opening tag. The tag itself starts with a `<` and ends with a `>`. Tags must also include the element name, like `h1` above. This indicates the start of an element.
 2. The content of an element, `HTML Content!` here.
