@@ -1,6 +1,6 @@
 # Intro to HTML - Level Up - Why `index.html`?
 
-![Hero image](./assets/hero.png)
+![Hero image](./assets/hero-why-index.png)
 
 ## Why Do We Name HTML Files `index`?
 

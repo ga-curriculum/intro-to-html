@@ -1,6 +1,6 @@
 # Intro to HTML
 
-![Hero image](./assets/tktkhero-main.png)
+![Hero image](./assets/hero.png)
 
 ## Module overview
 

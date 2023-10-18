@@ -1,6 +1,6 @@
 # Intro to HTML - Level Up - Emmet
 
-![Hero image](./assets/hero.png)
+![Hero image](./assets/hero-emmet.png)
 
 ## What is Emmet and why use it?
 

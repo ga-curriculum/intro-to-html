@@ -1,6 +1,6 @@
 # Intro to HTML - Level Up - History of HTML
 
-![Hero image](./assets/hero.png)
+![Hero image](./assets/hero-history-of-html.png)
 
 ## History
 
