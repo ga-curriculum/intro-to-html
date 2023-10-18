@@ -10,11 +10,7 @@ Elements have attributes that contain details about the element.
 
 The available attributes will vary from element to element. However, many attributes work across every element, like the `id` attribute. The `id` attribute is used to uniquely identify an HTML element when necessary. It can also be used to help style elements. Here's the syntax to apply an `id` to our existing `<h1>` element.
 
-```html
-<h1 id="title">HTML Content</h1>
-```
-
-tktk Hunter, can you turn the above syntax into a graphic with labels matching the below, similar to our other syntax assets?
+![Element Attributes](./assets/element-attributes.png)
 
 1. A space between the element name and the attribute name.
 2. The attribute name.
