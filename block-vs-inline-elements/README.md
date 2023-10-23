@@ -1,8 +1,6 @@
-# Intro to HTML - Block vs. Inline Elements
+# ![Intro to HTML - Block vs. Inline Elements](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
-
-**Learning objective:** By the end of this lesson, students will be able to differentiate between inline and block elements.
+**Learning objective:** By the end of this lesson, learners will be able to distinguish between block and inline elements in HTML and explain how their default behaviors impact webpage layout.
 
 ## Inline vs. block elements
 

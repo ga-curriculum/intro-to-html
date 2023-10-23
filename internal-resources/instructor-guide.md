@@ -1,6 +1,4 @@
-# Intro to HTML - Instructor Guide
-
-![Hero image](./assets/hero-instructor-guide.png)
+# ![Intro to HTML - Instructor Guide](./assets/hero-instructor-guide.png)
 
 *Nothing here yet!*
 

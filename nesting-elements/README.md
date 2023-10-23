@@ -1,8 +1,8 @@
-# Intro to HTML - Nesting Elements
+# 
 
-![Hero image](./assets/hero.png)
+![Intro to HTML - Nesting Elements](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will understand how to implement  nested elements, and discuss their relationships. 
+**Learning objective:** By the end of this lesson, learners will be able to construct nested HTML elements and identify the parent-child and ancestor-descendant relationships for web page organization.
 
 ## Nesting elements
 

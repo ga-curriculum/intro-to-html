@@ -1,6 +1,6 @@
-# Intro to HTML - Level Up - Why `index.html`?
+# ![Intro to HTML - Level Up - Why `index.html`?](./assets/hero-why-index.png)
 
-![Hero image](./assets/hero-why-index.png)
+**Learning objective:** By the end of this lesson, students will be able to explain the significance of naming the main HTML file as index.html, and describe its impact on server behavior and user experience.
 
 ## Why Do We Name HTML Files `index`?
 

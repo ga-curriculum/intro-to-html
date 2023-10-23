@@ -1,8 +1,6 @@
-# Intro to HTML - Concepts
+# ![Intro to HTML - Concepts](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
-
-**Learning objective:** By the end of this lesson, students will have an understanding of what HTML is and what it does, its role in creating web content, and how it can benefit an application.
+**Learning objective:** By the end of this lesson, learners will be able to explain the role and key components of HTML in website development, including its significance in providing structure and enabling SEO.
 
 ## What is HTML?
 

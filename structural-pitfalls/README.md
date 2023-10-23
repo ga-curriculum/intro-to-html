@@ -1,8 +1,7 @@
-# Intro to HTML - Structural Pitfalls
+# ![Intro to HTML - Structural Pitfalls](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
+**Learning objective:** By the end of this lesson, students will be able to identify and correct common structural pitfalls in HTML to provide a deeper understanding of formatting to help avoid common errors.
 
-**Learning objective:** By the end of this lesson, students will be able to understand some of the quirks involved in using HTML to provide a deeper understanding of formatting to help avoid common errors.
 
 
 ## Whitespace

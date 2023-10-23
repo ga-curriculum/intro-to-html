@@ -1,8 +1,6 @@
-# Intro to HTML - Comments and Elements
+# ![Intro to HTML - Comments and Elements](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
-
-**Learning objective:** By the end of this lesson, students will understand some details about comments and creating elements in HTML.
+**Learning objective:** By the end of this lesson, learners will be able to construct HTML elements and comments.
 
 ## Comments
 

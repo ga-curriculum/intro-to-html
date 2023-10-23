@@ -1,6 +1,4 @@
-# Intro to HTML - References
-
-![Hero image](./assets/hero.png)
+# ![Intro to HTML - References](./assets/hero.png)
 
 ## Lesson references
 

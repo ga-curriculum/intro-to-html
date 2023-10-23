@@ -1,6 +1,6 @@
-# Intro to HTML - Level Up - Emmet
+# ![Intro to HTML - Level Up - Emmet](./assets/hero-emmet.png)
 
-![Hero image](./assets/hero-emmet.png)
+**Learning objective:** By the end of this lesson, students will be able to utilize Emmet abbreviations in VS Code to expedite the generation of HTML and CSS code structures.
 
 ## What is Emmet and why use it?
 

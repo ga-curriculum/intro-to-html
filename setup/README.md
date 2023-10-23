@@ -1,6 +1,4 @@
-# Intro to HTML - Setup
-
-![Hero image](./assets/hero.png)
+# ![Intro to HTML - Setup](./assets/hero.png)
 
 Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 

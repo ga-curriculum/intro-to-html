@@ -1,8 +1,6 @@
-# Intro to HTML - Boilerplate
+# ![Intro to HTML - Boilerplate](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
-
-**Learning objective:** By the end of this lesson, students will be able to build a basic HTML web page using HTML boilerplate.
+**Learning objective:** By the end of this lesson, learners will be able to generate a foundational HTML boilerplate and modify its title element to set up a web page.
 
 ## HTML boilerplate
 

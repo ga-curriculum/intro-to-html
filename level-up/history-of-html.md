@@ -1,6 +1,6 @@
-# Intro to HTML - Level Up - History of HTML
+# ![Intro to HTML - Level Up - History of HTML](./assets/hero-history-of-html.png)
 
-![Hero image](./assets/hero-history-of-html.png)
+**Learning objective:** By the end of this lesson, students will be able to articulate the historical development of HTML and identify its role in shaping the modern internet.
 
 ## History
 

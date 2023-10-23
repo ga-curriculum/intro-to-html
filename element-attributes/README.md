@@ -1,10 +1,6 @@
-# Intro to HTML - Element Attributes
+# ![Intro to HTML - Element Attributes](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
-
-**Learning objective:** By the end of this lesson, students will understand how to apply attributes to HTML elements.
-
-## Element attributes 
+**Learning objective:** By the end of this lesson, learners will understand how attributes play a critical role in defining how an HTML element should appear or behave on a web page.
 
 Elements have attributes that contain details about the element.
 
