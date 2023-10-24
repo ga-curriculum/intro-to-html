@@ -17,7 +17,7 @@ This release modularizes the legacy Intro-to-HTML lecture and provides some othe
 - Update setup materials to use VS Code.
 - Update assets throughout.
 - Fix incorrect HTML boilerplate
-- Update order of content in lecture. Element fundamentals are now covered before information about boilerplate. Elements Structural pitfalls like whitespace and invalid HTML are covered towards the end.
+- Update order of content in lecture. Element fundamentals are now covered before information about boilerplate. Structural pitfalls like whitespace and invalid HTML are covered towards the end.
 - Move history of HTML content to Level Up material.
 - Move emmet content to Level Up material.
 
