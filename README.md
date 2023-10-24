@@ -4,9 +4,13 @@
 
 This HTML module is designed to offer a comprehensive yet approachable introduction to the essentials of HTML, the standard markup language for creating web pages. Suitable for beginners, the content starts with basic setup procedures, progressing through fundamental concepts and syntax. Whether it's for a novice exploring web development or a professional seeking to improve HTML fluency, this structure allows for easy adaptation to a variety of learning paths. The module is ideal for those seeking an exhaustive yet easily digestible guide to HTML, catering to a wide range of learners.
 
+## Prerequisites 
+
+ None
+
 ## Content
 
-| Lesson | Video Time | Video | Topics Covered |
+| Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| -------------- |
 | [Setup](./setup/README.md)                 | -- | -- | Setting up the development environment |
 | [Concepts](./concepts/README.md)           | -- | -- | Introduction to HTML's role, elements, and basic syntax |
@@ -19,9 +23,9 @@ This HTML module is designed to offer a comprehensive yet approachable introduct
 | [Structural Pitfalls](./structural-pitfalls/README.md)               | -- | -- | Identifying and avoiding common errors in HTML structuring like malformed tags |
 |  **Total Module**                          | -- | -- |      |
 
-## Level Up Content
+## Level Up content
 
-| Lesson | Video Time | Video | Topics Covered |
+| Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| -------------- |
 |[Why `index.html`?](./level-up/why-index.md) |-- |--| Significance of naming the main HTML file as index.html and its impact on user experience |
 |[History of HTML](./level-up/history-of-html.md) |-- |--| Tracing the origins and evolution of HTML, from Tim Berners-Lee to modern governance |
