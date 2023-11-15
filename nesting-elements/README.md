@@ -74,7 +74,7 @@ This is more than an analogy - this is the ideal way to think about how dom elem
 
 ![HTML shown in the browser](./assets/html-in-the-browser.png)
 
-## Knowledge Checks
+## ❓ Review Questions
 
 - Why should we use proper indentation for our tags?
 - What is it called when we place elements inside of other elements?

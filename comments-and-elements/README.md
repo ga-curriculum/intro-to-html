@@ -50,7 +50,7 @@ You may see void elements written with a space and closing `/` added to the end 
 <hr />
 ```
 
-## Knowledge Checks
+## ❓ Review Questions
 
 - How do you write a comment in HTML?
 - How does a closing tag differ from an opening tag?

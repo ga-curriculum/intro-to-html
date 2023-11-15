@@ -40,7 +40,7 @@ Errors in complex HTML can be hard to find, so it's not uncommon for Developers 
 
 > ⚠ Unlike JavaScript, our browsers will not complain if we make HTML or CSS mistakes. Instead, it just transparently does its best to correct our mistakes or fail.
 
-## Knowledge Checks
+## ❓ Review Questions
 
 - True/False: If you have content with extra spaces between words, those extra spaces will not be rendered
 - Do browsers provide errors when your HTML is malformed?

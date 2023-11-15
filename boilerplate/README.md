@@ -42,7 +42,7 @@ Update the `<title>`, change the text between the opening and closing `<title>` 
 <title>Intro to HTML</title>
 ```
 
-## Knowledge Checks
+## ❓ Review Questions
 
 - What does the `lang` property on the `<html>` element describe?
 - What does the `<title>` tag do?

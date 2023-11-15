@@ -47,7 +47,7 @@ At times, attribute values could be lengthy, or you may have many of them. To ma
 
 In the course content, we will indent elements and tags in this way when an individual line of code is over 80 characters in length.
 
-## Knowledge Checks
+## ❓ Review Questions
 
 - What do attributes contain, with regards to an element?
 - What does the `id` attribute do?
