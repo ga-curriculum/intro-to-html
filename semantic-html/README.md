@@ -12,7 +12,7 @@ Semantic HTML clarifies the developer's intentions about what they are trying to
 
 It also improves accessibility for the visually impaired enabling screen readers to do their job better.
 
-## You Do
+## 🎓 You Do
 
 Take some time to research these semantic HTML tags. Replace the non-descriptive `<div>` element we've created already in our HTML with a more fitting element. We'll get back together and discuss
 

@@ -49,6 +49,7 @@ Some elements, like the list item `<li>` element, must be nested inside another 
 
 > 🧠 Above, nested elements all have their own line, but this is not strictly required.
 > Here's an example of a `<p>` element with text and a nested `<span>` element all on the same line:
+> 
 > ```html
 > <p>Have a <span>great</span> day!</p>
 > ```
