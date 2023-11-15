@@ -41,3 +41,9 @@ Update the `<title>`, change the text between the opening and closing `<title>` 
 ```html
 <title>Intro to HTML</title>
 ```
+
+## Knowledge Checks
+
+- What does the `lang` property on the `<html>` element describe?
+- What does the `<title>` tag do?
+- What element contains all content that we want to appear on the page?

@@ -47,4 +47,9 @@ How we wrote the code for these doesn't matter. What matters is the built-in beh
 > 🧠 Inline elements generally cannot have their height and width set in CSS. However, using CSS like this, `display: inline-block;`, allows inline elements to be sized.
 >
 > Some inline elements (for example, the `<img>`) are [replaced inline elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element) and can be given width and height without changing them into inline-block elements.
- 
+
+## Knowledge Checks
+
+- What's the difference between inline and block elements?
+- What are some examples of block elements?
+- What are some examples of inline elements?

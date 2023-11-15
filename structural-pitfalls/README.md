@@ -39,3 +39,8 @@ Proper structure and nesting of elements are important because the browser won't
 Errors in complex HTML can be hard to find, so it's not uncommon for Developers to use plugins or other tools to help them find errors. [Here is a tool](https://www.10bestdesign.com/dirtymarkup/) that finds errors in HTML that you provide.
 
 > ⚠ Unlike JavaScript, our browsers will not complain if we make HTML or CSS mistakes. Instead, it just transparently does its best to correct our mistakes or fail.
+
+## Knowledge Checks
+
+- True/False: If you have content with extra spaces between words, those extra spaces will not be rendered
+- Do browsers provide errors when your HTML is malformed?
