@@ -6,14 +6,14 @@ Open your Terminal application and navigate to your `~/code/ga/lectures` directo
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called `html-intro`, then enter this directory:
+Make a new directory called `intro-to-html`, then enter this directory:
 
 ```bash
-mkdir html-intro
-cd html-intro
+mkdir intro-to-html
+cd intro-to-html
 ```
 
-Then, create an `index.html` file. These files will hold your work for this lecture:
+Then, create an `index.html` file. This file will hold your work for this lecture:
 
 ```bash
 touch index.html
