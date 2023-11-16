@@ -21,7 +21,7 @@ None
 | [Block vs. Inline Elements](./block-vs-inline-elements/README.md) | -- | -- | Exploring the difference between block and inline elements and their default behaviors |
 | [Semantic HTML](./semantic-html/README.md)                        | -- | -- | Utilizing semantic tags for SEO and enhanced accessibility                             |
 | [Structural Pitfalls](./structural-pitfalls/README.md)            | -- | -- | Identifying and avoiding common errors in HTML structuring like malformed tags         |
-| **Total Content**                                                 | -- | -- |                                                                                        |
+| **Total content**                                                 | -- | -- |                                                                                        |
 
 ## Level Up content
 
