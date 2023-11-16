@@ -19,8 +19,3 @@ HTML is one of the three main technologies used in creating web content in brows
 Just like a house needs structural framing to stand, websites need structural content to style and assign behavior to. Fun and interactive sites are built on a base of HTML.
 
 In addition to HTML providing the structure of web content, it can also play a key role in search engine optimization (SEO). Depending on how documents are structured, HTML can improve their chances of appearing in requested searches. This can lead to improved visibility and success from a marketing perspective.
-
-## ❓ Review Questions
-
-- What does HTML do for our content?
-- True/False: HTML can help your rankings in search engines.
