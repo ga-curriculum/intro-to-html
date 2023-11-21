@@ -24,10 +24,3 @@ Take some time to research these semantic HTML tags. Replace the non-descriptive
 6. `<footer>`
 7. `<header>`
 8. `<nav>`
-
-## ❓ Review Questions
-
-- Explain what semantic HTML is and the benefits it provides.
-- List some tags we can substitute for `<div>` tags.
-- True/False: semantic HTML helps with SEO.
-- How does semantic HTML help visually impaired users?

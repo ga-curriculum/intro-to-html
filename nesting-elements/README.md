@@ -73,9 +73,3 @@ Just like in real life, a child can also be a parent (the `<ul>` element is a ch
 This is more than an analogy - this is the ideal way to think about how dom elements are connected because it even applies to how elements are shown to users in the browser.
 
 ![HTML shown in the browser](./assets/html-in-the-browser.png)
-
-## ❓ Review Questions
-
-- Why should we use proper indentation for our tags?
-- What is it called when we place elements inside of other elements?
-- What are two elements that have the same parent called?

@@ -49,9 +49,3 @@ You may see void elements written with a space and closing `/` added to the end 
 ```html
 <hr />
 ```
-
-## ❓ Review Questions
-
-- How do you write a comment in HTML?
-- How does a closing tag differ from an opening tag?
-- True/False all elements have text content.
