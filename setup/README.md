@@ -25,6 +25,6 @@ With the files created, open the contents of the directory in VS Code:
 code .
 ```
 
-Open the `index.html` file and add HTML boilerplate by typing `!` and then hitting the `Tab` key. 
+Open the `index.html` file and add HTML boilerplate by typing `!` and then hitting the `Tab` key.
 
 Open the `index.html` file in your browser.

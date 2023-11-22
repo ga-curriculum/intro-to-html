@@ -1,6 +1,4 @@
-# 
-
-![Intro to HTML - Nesting Elements](./assets/hero.png)
+# ![Intro to HTML - Nesting Elements](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, learners will be able to construct nested HTML elements and identify the parent-child and ancestor-descendant relationships for web page organization.
 
@@ -49,7 +47,7 @@ Some elements, like the list item `<li>` element, must be nested inside another 
 
 > 🧠 Above, nested elements all have their own line, but this is not strictly required.
 > Here's an example of a `<p>` element with text and a nested `<span>` element all on the same line:
-> 
+>
 > ```html
 > <p>Have a <span>great</span> day!</p>
 > ```
@@ -64,7 +62,7 @@ When elements are nested, they form relationships with one another.
 - **Child / Parent:** An element is a child if it is a direct descendant of its parent.
 - **Siblings:** Two or more elements are siblings if they have the same parent.
 
-Visualizing this with a family tree-like view may help. 
+Visualizing this with a family tree-like view may help.
 
 ![The DOM tree](./assets/tree.png)
 

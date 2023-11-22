@@ -4,7 +4,7 @@
 
 ## What is HTML?
 
-HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. 
+HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.
 
 HyperText? Markup? HyperText is text displayed on a digital device with references to other text that can be navigated to using hyperlinks (commonly called links). Markup provides both structure and semantic meaning to content. For example, an `<h1>` indicates the main heading for a document, while `<p>` represents a paragraph of text.
 

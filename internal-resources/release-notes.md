@@ -1,4 +1,4 @@
-# ![Intro to HTML - Release Notes](./assets/hero-release-notes.png)
+# ![Intro to HTML - Release Notes](../assets/release-notes.png)
 
 ## Version 1.0 - Updates from legacy content
 
@@ -6,11 +6,11 @@ This release modularizes the legacy Intro-to-HTML lecture and provides some othe
 
 ### Release details
 
-**Additions**
+#### Additions
 
 - Add Why `index.html` Level Up content.
 
-**Changes**
+#### Changes
 
 - Expand on written lecture material to provide a more straightforward outline for instructors to deliver content with and to provide more thorough written documentation for students.
 - Update content to be style guide compliant.
@@ -21,7 +21,7 @@ This release modularizes the legacy Intro-to-HTML lecture and provides some othe
 - Move history of HTML content to Level Up material.
 - Move emmet content to Level Up material.
 
-**Removals**
+#### Removals
 
 - Remove HTML in Context, distributed information to:
   - Intro to JavaScript History Level Up.

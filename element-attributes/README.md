@@ -2,6 +2,8 @@
 
 **Learning objective:** By the end of this lesson, learners will understand how attributes play a critical role in defining how an HTML element should appear or behave on a web page.
 
+## Attributes
+
 Elements have attributes that contain details about the element.
 
 The available attributes will vary from element to element. However, many attributes work across every element, like the `id` attribute. The `id` attribute is used to uniquely identify an HTML element when necessary. It can also be used to help style elements. Here's the syntax to apply an `id` to our existing `<h1>` element.
@@ -12,7 +14,7 @@ The available attributes will vary from element to element. However, many attrib
 2. The attribute name.
 3. An equal sign.
 4. An attribute value wrapped in opening and closing quotes.
-   
+
 A few additional notes about attributes:
 
 - Working with attributes will only ever alter the first tag or the only tag in the case of a void element.
@@ -23,7 +25,7 @@ A few additional notes about attributes:
 
 Attributes add a layer of powerful complexity to our HTML. MDN maintains a [list of attributes here](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes).
 
-### Element and attribute indentation
+## Element and attribute indentation
 
 At times, attribute values could be lengthy, or you may have many of them. To make your code easier to read, you should split the opening tag as in the examples below. You don't need to write this code or pay attention to these attributes. Just observe how indentation and line breaks are handled:
 

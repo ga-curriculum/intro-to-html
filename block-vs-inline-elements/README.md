@@ -38,11 +38,11 @@ The difference is because they are inline elements, they will share the line and
 
 ![HTML in Browser](./assets/html-in-browser-inline.png)
 
-How we wrote the code for these doesn't matter. What matters is the built-in behavior of these different elements.
-
-> 💡 Block elements will not share the line they occupy; inline elements will! 
-> 
+> 💡 Block elements will not share the line they occupy; inline elements will!
+>
 > Block elements can be styled to become inline elements. Conversely, inline elements can be styled to become block elements.
+
+How we wrote the code for these doesn't matter. What matters is the built-in behavior of these different elements.
 
 > 🧠 Inline elements generally cannot have their height and width set in CSS. However, using CSS like this, `display: inline-block;`, allows inline elements to be sized.
 >

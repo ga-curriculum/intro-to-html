@@ -4,7 +4,6 @@ This section provides questions that can be used in various teaching formats. Th
 
 ## Concepts
 
-
 ## Comments and Elements
 
 ❓ Review Questions
@@ -63,8 +62,6 @@ This section provides questions that can be used in various teaching formats. Th
 
 ## Why index.html?
 
-
 ## History of HTML
-
 
 ## Emmet

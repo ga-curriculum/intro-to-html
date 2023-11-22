@@ -10,7 +10,7 @@ Emmet can help you generate boilerplate code quickly and efficiently.
 
 ## How Emmet Works
 
-1. **Abbreviation**: Type an Emmet abbreviation. For example, `ul>li*5` is an abbreviation to create an unordered list element (`<ul>`) indicated by `ul` with five list item (`<li>`) children as indicated by `>li*5`. The `>` indicates that the element that follows it will be a child of the `<ul>`, the `*5` indicates that there should be five of the element that preceeds it. 
+1. **Abbreviation**: Type an Emmet abbreviation. For example, `ul>li*5` is an abbreviation to create an unordered list element (`<ul>`) indicated by `ul` with five list item (`<li>`) children as indicated by `>li*5`. The `>` indicates that the element that follows it will be a child of the `<ul>`, the `*5` indicates that there should be five of the element that preceeds it.
 
 2. **Expansion**: Press the `Tab` key or another designated trigger to expand the abbreviation into full code. Using the previous example, `ul>li*5` will expand to:
 
@@ -26,6 +26,6 @@ Emmet can help you generate boilerplate code quickly and efficiently.
 
 ### Additional features
 
- - **Code Wrapping:** You can select code and use Emmet to wrap it with new elements.
- - **Lorem Ipsum Generator:** Use `lorem` to insert placeholder text.
- - **Attribute Generation:** You can include attributes within your Emmet abbreviation, like `a[target=_blank]`.
+- **Code Wrapping:** You can select code and use Emmet to wrap it with new elements.
+- **Lorem Ipsum Generator:** Use `lorem` to insert placeholder text.
+- **Attribute Generation:** You can include attributes within your Emmet abbreviation, like `a[target=_blank]`.

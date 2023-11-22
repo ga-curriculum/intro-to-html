@@ -2,8 +2,6 @@
 
 **Learning objective:** By the end of this lesson, students will be able to identify and correct common structural pitfalls in HTML to provide a deeper understanding of formatting to help avoid common errors.
 
-
-
 ## Whitespace
 
 Multiple spaces created using the `spacebar`, `tab` and, `return` keys are rendered as a single space character between elements and text.
@@ -26,7 +24,7 @@ Here is the result of the above HTML:
 
 ![The result of spacing in HTML](./assets/html-spacing.png)
 
-When you want space between text and elements you should typically create it using CSS. As an additional option you can use the `&nbsp;` (non-breaking space) [HTML Entity](https://developer.mozilla.org/en-US/docs/Glossary/Entity) or the `<br>` or break element. 
+When you want space between text and elements you should typically create it using CSS. As an additional option you can use the `&nbsp;` (non-breaking space) [HTML Entity](https://developer.mozilla.org/en-US/docs/Glossary/Entity) or the `<br>` or break element.
 
 ## Malformed HTML
 

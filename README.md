@@ -2,11 +2,13 @@
 
 ## About
 
-This HTML module is designed to offer a comprehensive yet approachable introduction to the essentials of HTML, the standard markup language for creating web pages. Suitable for beginners, the content starts with basic setup procedures, progressing through fundamental concepts and syntax. Whether it's for a novice exploring web development or a professional seeking to improve HTML fluency, this structure allows for easy adaptation to a variety of learning paths. The module is ideal for those seeking an exhaustive yet easily digestible guide to HTML, catering to a wide range of learners.
+This HTML module is designed to offer a comprehensive yet approachable introduction to the essentials of HTML, the standard markup language for creating web pages. Suitable for beginners, the content starts with basic setup procedures, progressing through fundamental concepts and syntax.
 
-## Prerequisites 
+Whether it's for a novice exploring web development or a professional seeking to improve HTML fluency, this structure allows for easy adaptation to a variety of learning paths. The module is ideal for those seeking an exhaustive yet easily digestible guide to HTML, catering to a wide range of learners.
 
-None
+## Prerequisites
+
+- Intro to the CLI
 
 ## Content
 
@@ -40,7 +42,7 @@ None
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
-🎥 [Video Hub](./internal-resources/video-hub/README.md)
+🎥 [Video Hub](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
