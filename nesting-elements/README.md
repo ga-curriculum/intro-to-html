@@ -68,6 +68,6 @@ Visualizing this with a family tree-like view may help.
 
 Just like in real life, a child can also be a parent (the `<ul>` element is a child of the `<div>` element and simultaneously the parent of the `<li>` elements). Again, proper indentation of your HTML helps keep these relationships clear and organized.
 
-This is more than an analogy - this is the ideal way to think about how dom elements are connected because it even applies to how elements are shown to users in the browser.
+This is more than an analogy - this is the ideal way to think about how elements are connected because it even applies to how they are shown to users in the browser.
 
 ![HTML shown in the browser](./assets/html-in-the-browser.png)
