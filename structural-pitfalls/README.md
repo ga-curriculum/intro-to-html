@@ -4,7 +4,7 @@
 
 ## Whitespace
 
-Multiple spaces created using the `spacebar`, `tab` and, `return` keys are rendered as a single space character between elements and text.
+Multiple spaces created using the `spacebar`, `tab`, and `return` keys are rendered as a single space character between elements and text.
 
 ```html
 <p>
