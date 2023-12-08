@@ -6,9 +6,7 @@
 
 Semantic HTML helps express the meaning or purpose of the content in a webpage:
 
-```html
-<img src="./assets/semantic.png" alt="semantic html" style="width:100vw;">
-```
+![semantic HTML](./assets/semantic.png)
 
 Semantic HTML clarifies the developer's intentions about what they are trying to accomplish and allows for more accurate web searches via better SEO (search engine optimization).
 
