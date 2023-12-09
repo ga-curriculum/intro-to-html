@@ -8,13 +8,15 @@ Semantic HTML helps express the meaning or purpose of the content in a webpage:
 
 ![semantic HTML](./assets/semantic.png)
 
-Semantic HTML clarifies the developer's intentions about what they are trying to accomplish and allows for more accurate web searches via better SEO (search engine optimization).
+Semantic HTML clarifies the developer's intentions about what they are trying to accomplish when structuring a page. It also improves accessibility for the visually impaired enabling screen readers to do their job better.
 
-It also improves accessibility for the visually impaired enabling screen readers to do their job better.
+It also allows for more accurate web searches via better SEO (*search engine optimization*).
+
+> 📚 The goals of *search engine optimization* is to increase the quantity and quality of traffic to a website through search engine results. It involves making changes (including using semantic HTML) to a website to make it more attractive to search engines.
 
 ## 🎓 You Do
 
-Take some time to research these semantic HTML tags. Replace the non-descriptive `<div>` element we've created already in our HTML with a more fitting element. We'll get back together and discuss
+Take some time to research these semantic HTML tags. Replace the non-descriptive `<div>` element we've already created in our HTML with a more fitting element.
 
 1. `<section>`
 2. `<article>`
