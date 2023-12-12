@@ -16,7 +16,7 @@ It also allows for more accurate web searches via better SEO (*search engine opt
 
 ## 🎓 You Do
 
-Take some time to research these semantic HTML tags. Replace the non-descriptive `<div>` element we've already created in our HTML with a more fitting element.
+Take some time to research these semantic HTML tags. Research how these tags differ from the non-descriptive `<div>` element.
 
 1. `<section>`
 2. `<article>`
