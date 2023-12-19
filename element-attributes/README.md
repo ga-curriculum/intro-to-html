@@ -18,7 +18,7 @@ The available attributes will vary from element to element. However, many attrib
 A few additional notes about attributes:
 
 - Working with attributes will only ever alter the first tag or the only tag in the case of a void element.
-- Attribute names are always written in `kebab-case`. In this convention, each word is written in lowercase and separated by a dash `-`.
+- Attribute names are always written in `lower-kebab-case`. In this convention, each word is written in lowercase and separated by a dash `-`.
 - Multiple attributes can be used on a single element. A space should separate attributes.
 - By convention, spaces aren't used to separate the equal sign from the attribute name or value, even though it would still be valid. The convention exists because spaces are the only thing separating different attributes. Adding extra spaces can make your HTML less readable.
 - Double quotes are often used around the attribute value in HTML, but single quotes are also valid.
