@@ -12,7 +12,7 @@ Semantic HTML clarifies the developer's intentions about what they are trying to
 
 It also allows for more accurate web searches via better SEO (*search engine optimization*).
 
-> 📚 The goals of *search engine optimization* is to increase the quantity and quality of traffic to a website through search engine results. It involves making changes (including using semantic HTML) to a website to make it more attractive to search engines.
+> 📚 The goals of *search engine optimization* are to increase the quantity and quality of traffic to a website through search engine results. It involves making changes (including using semantic HTML) to a website to make it more attractive to search engines.
 
 ## 🎓 You Do
 
