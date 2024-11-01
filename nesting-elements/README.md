@@ -1,4 +1,7 @@
-# ![Intro to HTML - Nesting Elements](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to HTML</span>
+  <span class="subhead">Nesting Elements</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, learners will be able to construct nested HTML elements and identify the parent-child and ancestor-descendant relationships for web page organization.
 

@@ -1,4 +1,7 @@
-# ![Intro to HTML - Semantic HTML](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to HTML</span>
+  <span class="subhead">Semantic HTML</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, learners will be able to apply semantic HTML tags to enhance the structure, accessibility, and SEO of a webpage.
 

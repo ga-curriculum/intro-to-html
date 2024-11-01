@@ -1,4 +1,7 @@
-# ![Intro to HTML - Structural Pitfalls](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to HTML</span>
+  <span class="subhead">Structural Pitfalls</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to identify and correct common structural pitfalls in HTML to provide a deeper understanding of formatting to help avoid common errors.
 

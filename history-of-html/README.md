@@ -1,4 +1,7 @@
-# ![Intro to HTML - Level Up - History of HTML](./assets/hero-history-of-html.png)
+<h1>
+  <span class="headline">Intro to HTML</span>
+  <span class="subhead">History of HTML</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to articulate the historical development of HTML and identify its role in shaping the modern internet.
 

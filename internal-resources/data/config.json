@@ -1,0 +1,211 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "Intro to HTML",
+    "name": "intro-to-html",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Comments and Elements",
+          "dirName": "comments-and-elements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Element Attributes",
+          "dirName": "element-attributes",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Nesting Elements",
+          "dirName": "nesting-elements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Boilerplate",
+          "dirName": "boilerplate",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Block vs Inline Elements",
+          "dirName": "block-vs-inline-elements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Semantic HTML",
+          "dirName": "semantic-html",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Structural Pitfalls",
+          "dirName": "structural-pitfalls",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Why  index.html ?",
+          "dirName": "why-index",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "History of HTML",
+          "dirName": "history-of-html",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Emmet",
+          "dirName": "emmet",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "seb",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Comments and Elements",
+          "dirName": "comments-and-elements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Element Attributes",
+          "dirName": "element-attributes",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Nesting Elements",
+          "dirName": "nesting-elements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Boilerplate",
+          "dirName": "boilerplate",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Block vs Inline Elements",
+          "dirName": "block-vs-inline-elements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Semantic HTML",
+          "dirName": "semantic-html",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Structural Pitfalls",
+          "dirName": "structural-pitfalls",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Why  index.html ?",
+          "dirName": "why-index",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "History of HTML",
+          "dirName": "history-of-html",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Emmet",
+          "dirName": "emmet",
+          "type": "Level Up content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}

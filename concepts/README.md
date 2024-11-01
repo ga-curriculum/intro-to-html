@@ -1,4 +1,7 @@
-# ![Intro to HTML - Concepts](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to HTML</span>
+  <span class="subhead">Concepts</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, learners will be able to explain the role and key components of HTML in website development, including its significance in providing structure and enabling SEO.
 

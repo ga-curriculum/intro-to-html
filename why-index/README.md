@@ -1,4 +1,7 @@
-# ![Intro to HTML - Level Up - Why `index.html`?](./assets/hero-why-index.png)
+<h1>
+  <span class="headline">Intro to HTML</span>
+  <span class="subhead">Why <code>index.html</code>?</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to explain the significance of naming the main HTML file as index.html, and describe its impact on server behavior and user experience.
 

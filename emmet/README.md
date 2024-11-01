@@ -1,4 +1,7 @@
-# ![Intro to HTML - Level Up - Emmet](./assets/hero-emmet.png)
+<h1>
+  <span class="headline">Intro to HTML</span>
+  <span class="subhead">Emmet</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to utilize Emmet abbreviations in VS Code to expedite the generation of HTML and CSS code structures.
 

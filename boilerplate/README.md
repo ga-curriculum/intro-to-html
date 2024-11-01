@@ -1,4 +1,7 @@
-# ![Intro to HTML - Boilerplate](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to HTML</span>
+  <span class="subhead">Boilerplate</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, learners will be able to generate a foundational HTML boilerplate and modify its title element to set up a web page.
 

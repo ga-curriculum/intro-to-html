@@ -1,4 +1,7 @@
-# ![Intro to HTML - Comments and Elements](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to HTML</span>
+  <span class="subhead">Comments and Elements</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, learners will be able to construct HTML elements and comments.
 

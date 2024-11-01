@@ -1,4 +1,7 @@
-# ![Intro to HTML - Element Attributes](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to HTML</span>
+  <span class="subhead">Element Attributes</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, learners will understand how attributes play a critical role in defining how an HTML element should appear or behave on a web page.
 

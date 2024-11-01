@@ -1,4 +1,7 @@
-# ![Intro to HTML - References](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to HTML</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 
@@ -7,7 +10,4 @@
 - [MDN - Replaced elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element)
 - [MDN - Entity](https://developer.mozilla.org/en-US/docs/Glossary/Entity)
 - [dirtyMarkup by 10 Best Design](https://www.10bestdesign.com/dirtymarkup/)
-
-## Level Up references
-
 - [Web Hypertext Application Technology Working Group (WHATWG)](https://whatwg.org/)

@@ -1,0 +1,88 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+commentsAndElements = new Template.Microlesson {
+  friendlyName = "Comments and Elements"
+  dirName = "comments-and-elements"
+  type = "Content"
+  videoUrl = ""
+}
+
+elementAttributes = new Template.Microlesson {
+  friendlyName = "Element Attributes"
+  dirName = "element-attributes"
+  type = "Content"
+  videoUrl = ""
+}
+
+nestingElements = new Template.Microlesson {
+  friendlyName = "Nesting Elements"
+  dirName = "nesting-elements"
+  type = "Content"
+  videoUrl = ""
+}
+
+boilerplate = new Template.Microlesson {
+  friendlyName = "Boilerplate"
+  dirName = "boilerplate"
+  type = "Content"
+  videoUrl = ""
+}
+
+blockVsInlineElements = new Template.Microlesson {
+  friendlyName = "Block vs Inline Elements"
+  dirName = "block-vs-inline-elements"
+  type = "Content"
+  videoUrl = ""
+}
+
+semanticHtml = new Template.Microlesson {
+  friendlyName = "Semantic HTML"
+  dirName = "semantic-html"
+  type = "Content"
+  videoUrl = ""
+}
+
+structuralPitfalls = new Template.Microlesson {
+  friendlyName = "Structural Pitfalls"
+  dirName = "structural-pitfalls"
+  type = "Content"
+  videoUrl = ""
+}
+
+whyIndex = new Template.Microlesson {
+  friendlyName = "Why  index.html ?"
+  dirName = "why-index"
+  type = "Content"
+  videoUrl = ""
+}
+
+historyOfHtml = new Template.Microlesson {
+  friendlyName = "History of HTML"
+  dirName = "history-of-html"
+  type = "Content"
+  videoUrl = ""
+}
+
+emmet = new Template.Microlesson {
+  friendlyName = "Emmet"
+  dirName = "emmet"
+  type = "Content"
+  videoUrl = ""
+}
+

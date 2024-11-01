@@ -1,4 +1,7 @@
-# ![Intro to HTML - Block vs. Inline Elements](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to HTML</span>
+  <span class="subhead">Block vs Inline Elements</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, learners will be able to distinguish between block and inline elements in HTML and explain how their default behaviors impact webpage layout.
 
