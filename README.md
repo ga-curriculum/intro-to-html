@@ -37,7 +37,7 @@ Whether it's for a novice exploring web development or a professional seeking to
 
 - Intro to the CLI
 
-### Github Pages Sites
+### Course landing pages
 
 - [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-html/canvas-landing-pages/fallback)
 - [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-html/canvas-landing-pages/seb)
